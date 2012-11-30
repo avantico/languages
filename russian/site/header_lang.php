@@ -1,18 +1,17 @@
 <?
 
-$lang['header_title']				= "GLEX.com";
-$lang['header_merchant']			= "Заведение";
-$lang['header_agent']				= "Агент";
-$lang['header_login_title']			= "Авторизация";
-$lang['header_remind_title']		= "Восстановление пароля";
-$lang['header_register_title']		= "Регистрация";
+/* Вход, регистрация */
+$lang['site_header_login_btn'] = "Вход";
+$lang['site_header_registration_btn'] = "Регистрация";
 
-$lang['header_register_link'] 		= "Регистрация";
-$lang['header_login_link'] 			= "Войти";
-$lang['header_logout_link'] 		= "Выйти";
-$lang['header_settings_link'] 		= "Настройки";
+/* меню */
+$lang['site_header_menu_how_it_works']				= "Как это работает";
+$lang['site_header_menu_for_agents']			= "Агентам";
+$lang['site_header_menu_for_merchants']		= "Заведениям";
+$lang['site_header_menu_faq']		= "Вопросы и ответы";
+$lang['site_header_menu_about']		= "О нас";
+$lang['site_header_menu_contacts']		= "Контакты";
 
-$lang['header_create_credit'] 		= "Сделать начисление";
 
 
 ?>
