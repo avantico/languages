@@ -1,8 +1,6 @@
 <?
 
-/* Вход, регистрация */
-$lang['site_header_login_btn'] = "Вход";
-$lang['site_header_registration_btn'] = "Регистрация";
+
 
 /* меню */
 $lang['site_header_menu_how_it_works']				= "Как это работает";

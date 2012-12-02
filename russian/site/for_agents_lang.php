@@ -1,109 +1,105 @@
 <?
 
-$lang['ru'] = 'Русский';
-$lang['en'] = 'Английский';
-$lang['select_default'] = 'Выберите...';
-$lang['id'] = 'Ваш ID';
+$lang['site_agents_intro_1'] = 'Вы постоянно <strong>контактируете с туристами</strong> и рекомендуете им туристические заведения: рестораны, магазины, пункты проката?';
+$lang['site_agents_intro_2'] = 'С нашей помощью вы будете рекомендовать эффективнее, удобнее и быстрее, а <strong>зарабатывать — заметно больше!</strong>';
 
-$lang['close'] 		= "Закрыть";
-$lang['save'] 		= "Сохранить";
-$lang['cancel'] 	= "Отменить";
-$lang['edit'] 		= "Редактировать";
-$lang['login'] 		= "Вход";
-$lang['register'] 	= "Регистрация";
+$lang['site_agents_how_to_earn_money_title'] = 'Как мне зарабатывать с Glex?';
+$lang['site_agents_how_to_earn_money_desc'] = 'Полностью о том, как работает наша система вы можете узнать на схеме';
 
-$lang['back_to_profile']	= "Вернуться в профиль";
+$lang['site_agents_how_to_earn_money_step_1'] = 'Зарегистрируйтесь на сайте';
+$lang['site_agents_how_to_earn_money_step_2'] = 'Получите агентский QR-код';
+$lang['site_agents_how_to_earn_money_step_3'] = 'Создайте рекламные носители с QR-кодом';
+$lang['site_agents_how_to_earn_money_step_4'] = 'Дайте рекламные носители вашим туристам';
+$lang['site_agents_how_to_earn_money_step_5'] = 'Получайте от Заведений агентские вознаграждения за приведенных туристов';
 
-$lang['next'] 		= "Далее";
-$lang['prev'] 		= "Назад";
+$lang['site_agents_who_can_earn_money_title'] = 'Кто может зарабатывать с Glex?';
 
-$lang['turn_on'] 	= "Включить";
-$lang['turn_off']	= "Выключить";
+$lang['site_agents_table_colunn_agent'] = 'Тип агента';
+$lang['site_agents_table_colunn_how'] = 'Как применять Glex?';
+$lang['site_agents_table_colunn_type'] = 'Носители информации';
 
-
-$lang['back'] = "Назад";
-$lang['confirm'] = "Подтвердить";
-
-$lang['activity_travel']		= "Туризм, отели, экскурсии";
-$lang['activity_shops']			= "Магазины";
-$lang['activity_restraunts']	= "Бары, рестораны";
-$lang['activity_entertainment']	= "Шоу, развлечения";
-$lang['activity_media']			= "Web, реклама, медиа";
-$lang['activity_house']			= "Всё для дома, мебель";
-$lang['activity_style']			= "Мода, стиль, роскошь";
-$lang['activity_realty']		= "Недвижимость";
-$lang['activity_auto']			= "Авто, транспорт";
-$lang['activity_health']		= "Здоровье и спорт";
-$lang['activity_education']		= "Образование";
-$lang['activity_business']		= "Для бизнеса (b2b)";
-$lang['activity_other']			= "Прочее";
+$lang['site_agents_table_row_hotel_agent'] = 'Отель (и его персонал)';
+$lang['site_agents_table_row_hotel_how_li_1'] = 'Раздавайте готовые листовки с рекомендациями на стойке отеля';
+$lang['site_agents_table_row_hotel_how_li_2'] = 'Мгновенно формируйте индивидуальные рекомендации по запросам туристов';
+$lang['site_agents_table_row_hotel_how_li_3'] = 'Положите листовки с рекомендуемыми заведениями в номерах';
+$lang['site_agents_table_row_hotel_type_li_1'] = 'Подготовленные в личном кабинете Glex и распечатанные на принтере списки рекомендуемых заведений вашего города';
+$lang['site_agents_table_row_hotel_type_li_2'] = 'Travel-карты с QR-кодом, дающие право скидки в любом заведении с эмблемой Glex';
 
 
-$lang['invoice_status'][0]		= "Неизвестный статус";
-$lang['invoice_status'][1]		= "Ожидает оплаты";
-$lang['invoice_status'][2]		= "В обработке";
-$lang['invoice_status'][3]		= "Оплачен";
-$lang['invoice_status'][4]		= "Удален";
+$lang['site_agents_table_row_incoming_touroperator_agent'] = 'Принимающий туроператор';
+$lang['site_agents_table_row_incoming_touroperator_how_li_1'] = 'Выдавайте  вашим туристами листовки и специальные travel-карты в аэропорту, в автобусе, в отеле и других точках контакта с ними';
+$lang['site_agents_table_row_incoming_touroperator_how_li_2'] = 'Наладьте с помощью Glex удобный учет рекомендаций, выдаваемых вашими сотрудниками, и денег, поступающих от этих рекомендаций';
+$lang['site_agents_table_row_incoming_touroperator_type_li_1'] = 'Подготовленные в личном кабинете Glex и распечатанные на принтере списки рекомендуемых заведений вашего города';
+$lang['site_agents_table_row_incoming_touroperator_type_li_2'] = 'Travel-карты с QR-кодом, дающие право скидки в любом заведении с эмблемой Glex';
+
+$lang['site_agents_table_row_outgoing_touroperator_agent'] = 'Отправляющий туроператор';
+$lang['site_agents_table_row_outgoing_touroperator_how_li_1'] = 'Выдавайте вашим туристами листовки с подборками рекомендуемых заведений в городах, куда они едут';
+$lang['site_agents_table_row_outgoing_touroperator_type_li_1'] = 'Подготовленные в личном кабинете Glex и распечатанные на принтере списки рекомендуемых заведений вашего города';
+$lang['site_agents_table_row_outgoing_touroperator_type_li_2'] = 'Travel-карты с QR-кодом, дающие право скидки в любом заведении с эмблемой Glex';
+
+$lang['site_agents_table_row_travel_agency_agent'] = 'Отправляющее турагентство (и его менеджеры)';
+$lang['site_agents_table_row_travel_agency_how_li_1'] = 'Выдавайте вашим туристами листовки с подборками рекомендуемых заведений в городах, куда они едут';
+$lang['site_agents_table_row_travel_agency_type_li_1'] = 'Подготовленные в личном кабинете Glex и распечатанные на принтере списки рекомендуемых заведений вашего города';
+$lang['site_agents_table_row_travel_agency_type_li_2'] = 'Travel-карты с QR-кодом, дающие право скидки в любом заведении с эмблемой Glex';
+
+$lang['site_agents_table_row_travel_web_site_agent'] = 'Туристический веб-сайт';
+$lang['site_agents_table_row_travel_web_site_how_li_1'] = 'Установите на своем сайте специальные виджеты Glex, позволяющие давать автоматические рекомендации заведений в том или ином городе';
+$lang['site_agents_table_row_travel_web_site_type_li_1'] = 'Специальные виджеты для веб-сайта, позволяющие пользователю создать и распечатать подборку заведений, дающих скидку в том или ином городе ';
 
 
-/* Настройки поиска */
-$lang['search']						= "Искать";
-$lang['search_settings']			= "Настройки поиска";
-$lang['period_search_from'] 		= "Показывать период с ";
-$lang['period_search_to']	 		= "по";
-$lang['period_search_during']		= "За";
-$lang['period_search_week']		 	= "неделю";
-$lang['period_search_month']	 	= "месяц";
-$lang['period_search_year']		 	= "год";
+$lang['site_agents_table_row_travel_mobile_app_agent'] = 'Туристическое мобильное приложение';
+$lang['site_agents_table_row_travel_mobile_app_how_li_1'] = 'Указывайте информацию о бонусе для пользователя и свой QR-код в Glex на страницах туристических Заведений, которые находятся в вашей базе данных';
+$lang['site_agents_table_row_travel_mobile_app_how_li_2'] = 'Располагайте подборки рекомендуемых заведений на страницах городов и стран внутри вашего приложения';
+$lang['site_agents_table_row_travel_mobile_app_type_li_1'] = 'QR-код Glex на страницах заведений в вашем приложении';
+$lang['site_agents_table_row_travel_mobile_app_type_li_2'] = 'Подборки рекомендуемых заведений на страницах городов и стран в вашем приложении';
+
+$lang['site_agents_table_row_excursions_agent'] = 'Экскурсионное бюро';
+$lang['site_agents_table_row_excursions_how_li_1'] = 'Предлагайте вашим туристами листовки и специальные travel-карты во время экскурсии или заранее, при ее покупке.';
+$lang['site_agents_table_row_excursions_type_li_1'] = 'Подготовленные в личном кабинете Glex и распечатанные на принтере списки рекомендуемых заведений вашего города';
+$lang['site_agents_table_row_excursions_type_li_2'] = 'Travel-карты с QR-кодом, дающие право скидки в любом заведении с эмблемой Glex';
+
+$lang['site_agents_table_row_taxi_agent'] = 'Служба такси';
+$lang['site_agents_table_row_taxi_how_li_1'] = 'Выдавайте вашим туристами листовки и специальные travel-карты при их поездке в вашем такси';
+$lang['site_agents_table_row_taxi_type_li_1'] = 'Подготовленные в личном кабинете Glex и распечатанные на принтере списки рекомендуемых заведений вашего города';
+$lang['site_agents_table_row_taxi_type_li_2'] = 'Travel-карты с QR-кодом, дающие право скидки в любом заведении с эмблемой Glex';
 
 
-/* Публичные страницы — Сайдбар */
-$lang['public_sidebar_nav_header_main']	= "О проекте";
-$lang['public_sidebar_nav_header_about']		= "Как это работает";
+$lang['site_agents_table_row_press_agent'] = 'Печатное издание';
+$lang['site_agents_table_row_press_how_li_1'] = 'Публикуйте в вашем журнале или газете подборки рекомендуемых заведений, предоставляющих скидки в городе';
+$lang['site_agents_table_row_press_type_li_1'] = 'Подборки заведений в печатном издании';
+$lang['site_agents_table_row_press_type_li_2'] = 'Рубрика “Скидки нашего города” или нечто подобное';
+
+$lang['site_agents_table_row_advertisement_agent'] = 'Рекламное агентство';
+$lang['site_agents_table_row_advertisement_how_li_1'] = 'Предлагайте туристам вашего города подборки рекомендованных заведений, предлагающих скидки и бонусы';
+$lang['site_agents_table_row_advertisement_type_li_2'] = 'Флаеры, листовки “Скидки в городе”';
 
 
-$lang['public_sidebar_nav_header_for_merchant']	= "Продавцам";
-$lang['public_sidebar_nav_header_merchant']		= "Продавец";
-$lang['public_sidebar_nav_header_example_merchant']	= 'Пример "Ресторан"';
-$lang['public_sidebar_nav_header_scanner']		= "Сканер QR-кодов";
-$lang['public_sidebar_nav_header_profile']		= "Как заполнить профиль";
+$lang['site_agents_why_glex_title'] = 'Почему вам стоит работать с Glex?';
 
+$lang['site_agents_why_glex_money_title'] = 'Больше заработок!';
+$lang['site_agents_why_glex_money_desc'] = 'Вы получаете возможность эффективно зарабатывать на своих рекомендациях. А если вы уже рекомендуете, то с Glex вы будете зарабатывать заметно больше, затрачивая меньше времени и усилий.';
 
-$lang['public_sidebar_nav_header_for_agent']	= "Агентам";
-$lang['public_sidebar_nav_header_agent']		= "Агент";
-$lang['public_sidebar_nav_header_example_agent']= 'Пример "Рекламное агентство"';
+$lang['site_agents_why_glex_auto_title'] = 'Автоматизация!';
+$lang['site_agents_why_glex_auto_desc'] = 'Glex ведет для вас автоматизированный учет всех получаемых агентских вознаграждений. Отчеты о получаемых вознаграждениях от всех Заведений можно смотреть в личном кабинете пользователя.';
 
+$lang['site_agents_why_glex_time_title'] = 'Экономия времени!';
+$lang['site_agents_why_glex_time_desc'] = 'Вам не нужно договариваться ни с одним из заведений лично, а также не нужно с каждым вести отдельные расчеты. Все договоренности и расчеты централизованно проводятся через Glex.';
 
+$lang['site_agents_why_glex_base_title'] = 'База заведений!';
+$lang['site_agents_why_glex_base_desc'] = 'Вы имеете доступ к актуальной базе туристических заведений, которые готовы платить агентские вознаграждения и давать скидки и бонусы туристам в том или ином городе.';
 
+$lang['site_agents_why_glex_client_title'] = 'Лояльность клиента!';
+$lang['site_agents_why_glex_client_desc'] = 'Вы предоставляете своему туристу дополнительный сервис —  полезную информация о Заведениях, предоставляющих скидки и бонусы';
 
-//ПРОМО
+$lang['site_agents_why_glex_border_title'] = 'Отсутствие границ!';
+$lang['site_agents_why_glex_border_desc'] = 'QR-код не привязан к сделанным Агентом рекомендациям. Агент один раз выдает туристу рекламный носитель со своим QR-кодом, и турист может использовать его в разных городах и странах.';
 
-$lang['promo_hero_h2']			= "GLEX — это международная система взаиморасчетов в сфере туристических агентских вознаграждений";
-$lang['promo_hero_p']			= "Больше полезных рекомендаций для туристов! Больше клиентов для туристических заведений! Больше заработок для агентов!";
+$lang['site_agents_get_adv_materials_title'] = 'Получите готовые к использованию рекламные материалы с вашим QR-кодом!';
+$lang['site_agents_get_adv_materials_desc'] = 'В личном кабинете зарегистрированного пользователя Glex вы получите несколько типов готовых рекламных носителей. В рекламных материалах автоматически будет вставлен ваш QR-код и предусмотрено место для вашего логотипа, который вы можете добавить по желанию. В 2-3 клика вы сможете создать:';
 
-$lang['promo_double_hero_left_li'] = "<li><span>Отель</span></li><li><span>Турпортал</span></li><li><span>Туроператор</span></li><li><span>Турагентство</span></li><li><span>Издание</span></li>";
-$lang['promo_double_hero_right_li'] = "<li><span>Ресторан</span></li><li><span>Магазин</span></li><li><span>СПА</span></li><li><span>Парк</span></li><li><span>Прокат</span></li>";
+$lang['site_agents_get_adv_material_list'] = 'Готовые к распечатке списки туристических заведений вашего города с удобной картой в формате A4';
+$lang['site_agents_get_adv_material_widget'] = 'Виджет для вашего веб-сайта с подборкой заведений конкретного города или страны';
+$lang['site_agents_get_adv_material_card'] = 'Travel card в формате визитной карточки с QR-кодом и (по желанию) с вашим логотипом';
 
-$lang['promo_double_hero_left_h1'] = "Агенты";
-$lang['promo_double_hero_right_h1'] = "Заведения";
-
-$lang['promo_double_hero_left_h5'] = "Glex для агентов &mdash; это:";
-$lang['promo_double_hero_right_h5'] = "Glex для туристических <br/>заведений &mdash; это:";
-
-$lang['promo_double_hero_left_features_li'] = "<li>Возможность эффективно зарабатывать на рекомендациях, предоставляемых туристам</li><li>Доступ к актуальной базе туристических заведений вашего города, готовых платить агентские вознаграждения</li><li>Удобная система учета вознаграждений за сделанные рекомендации</li>";
-$lang['promo_double_hero_right_features_li'] = "<li>Рекламная площадка с оплатой только за результат – приведенного клиента </li><li>Возможность получать больше клиентов и сотрудничать с большим числом агентов, централизованно оплачивая их услуги</li><li>Эффективная технология идентификации агента</li>";
-
-
-$lang['promo_thesis_h3_1'] = "Glex это";
-$lang['promo_thesis_h3_2'] = "Преимущества Glex";
-$lang['promo_thesis_h3_3'] = "Это бесплатно";
-
-$lang['promo_thesis_p_1'] = "Для туристических заведений Glex — это рекламная технология, которая позволяет получать новых клиентов  с оплатой за результат.</p><p>Для агентов Glex — это актуальная база заведений, которые готовы платить комиссионные агентам за приведенных туристов.";
-
-$lang['promo_thesis_p_2'] = "<ul><li>Технология мгновенной идентификации давшего рекомендацию агента с помощью QR-кода</li><li>Автоматизированный учёт всех сделанных агентами рекомендаций и начисленных заведениями вознаграждений</li><li>Резкое упрощение наведения новых контактов и проведения регулярных расчетов агентов и заведений между собой</li></ul>";
-
-$lang['promo_thesis_p_3'] = "Мы не взимаем платы за пользование Glex ни с агентов, ни с заведений.</p><p>Наша комиссия возникает только в том случае, когда произошла успешная сделка и мы помогли заработать вам!";
-//ПРОМО
-
-
-?>
+$lang['site_agents_outro'] = 'Мы создали Glex для того, чтобы сделать ваш бизнес комфортнее и прибыльнее';
+$lang['site_agents_outro_register'] = 'Теперь от вас требуется только один шаг — зарегистрироваться в нашей системе и начать пользоваться ею.';
