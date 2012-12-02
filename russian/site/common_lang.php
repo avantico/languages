@@ -21,6 +21,8 @@ $lang['site_common_merchants_page_title'] = 'Заведениям';
 $lang['site_common_tourist'] = 'турист';
 $lang['site_common_tourist_upper'] = 'Турист';
 
+$lang['site_common_about_page_title'] = 'О нас';
+
 $lang['site_common_faq_page_title'] = 'Вопросы и ответы';
 
 $lang['site_common_if_more_questions'] = 'Если у вас остались вопросы, вы найдете ответы на них в разделе';
