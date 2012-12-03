@@ -45,6 +45,19 @@ $lang['site_merchants_agent_case_travel_mobile_app'] = 'Туристическо
 $lang['site_merchants_agent_case_travel_mobile_app_desc'] = 'В туристическом мобильном приложении о вашем городе размещается реклама вашего заведения и рекомендация его посетить.';
 
 
+$lang['site_merchants_merchant_case_restaurant'] = 'Ресторан';
+$lang['site_merchants_merchant_case_shop'] = 'Магазин';
+$lang['site_merchants_merchant_case_spa'] = 'SPA (салон красоты)';
+$lang['site_merchants_merchant_case_club'] = 'Ночной клуб (дискотека)';
+$lang['site_merchants_merchant_case_park'] = 'Парк развлечений';
+$lang['site_merchants_merchant_case_show'] = 'Шоу';
+$lang['site_merchants_merchant_case_rent_sport'] = 'Прокат спортивного оборудования';
+$lang['site_merchants_merchant_case_rent_car'] = 'Прокат авто';
+$lang['site_merchants_merchant_case_museum'] = 'Частный музей';
+
+
+
+
 $lang['site_merchants_thesis_free_title'] = 'Бесплатный сервис!';
 $lang['site_merchants_thesis_free_desc'] = 'Glex — бесплатная рекламная площадка для вашего заведения и бесплатный сервис вашего взаимодействия с Агентами. Вы платите комиссию только, когда получаете результат — приведенных Агентами Glex и приносящих вам доход клиентов.';
 $lang['site_merchants_thesis_clients_title'] = 'Больше клиентов!';
