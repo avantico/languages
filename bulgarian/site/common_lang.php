@@ -3,7 +3,7 @@
 <?
 /* Фразы, встречающиеся на многих страницах сайта (Например, Агент, Турист, Заведение.)  */
 /* Вход, регистрация */
-$lang['site_common_login_btn'] = "Вход";
+$lang['site_common_login_btn'] = "Влез";
 $lang['site_common_registration_btn'] = "Регистрация";
 
 $lang['site_common_main_page_title'] = 'Начало';
