@@ -1,15 +1,15 @@
 <?
 
-$lang['ru'] = 'Русский';
-$lang['en'] = 'Английский';
-$lang['select_default'] = 'Выберите...';
+$lang['ru'] = 'Руски';
+$lang['en'] = 'Английски';
+$lang['select_default'] = 'Изберете...';
 $lang['id'] = 'Ваш ID';
 
 $lang['close'] 		= "Закрыть";
-$lang['save'] 		= "Сохранить";
+$lang['save'] 		= "Запази";
 $lang['cancel'] 	= "Отменить";
 $lang['edit'] 		= "Редактировать";
-$lang['login'] 		= "Вход";
+$lang['login'] 		= "Влез";
 $lang['register'] 	= "Регистрация";
 
 $lang['back_to_profile']	= "Вернуться в профиль";
@@ -24,19 +24,19 @@ $lang['turn_off']	= "Выключить";
 $lang['back'] = "Назад";
 $lang['confirm'] = "Подтвердить";
 
-$lang['activity_travel']		= "Туризм, отели, экскурсии";
-$lang['activity_shops']			= "Магазины";
-$lang['activity_restraunts']	= "Бары, рестораны";
+$lang['activity_travel']		= "Туризъм, хотели, екскурзии";
+$lang['activity_shops']			= "Магазини";
+$lang['activity_restraunts']	= "Баровете, ресторантите";
 $lang['activity_entertainment']	= "Шоу, развлечения";
-$lang['activity_media']			= "Web, реклама, медиа";
+$lang['activity_media']			= "Интернет, Реклама, Медии";
 $lang['activity_house']			= "Всё для дома, мебель";
-$lang['activity_style']			= "Мода, стиль, роскошь";
+$lang['activity_style']			= "Мода, стил, лукс";
 $lang['activity_realty']		= "Недвижимость";
 $lang['activity_auto']			= "Авто, транспорт";
-$lang['activity_health']		= "Здоровье и спорт";
+$lang['activity_health']		= "Здраве и спорт";
 $lang['activity_education']		= "Образование";
-$lang['activity_business']		= "Для бизнеса (b2b)";
-$lang['activity_other']			= "Прочее";
+$lang['activity_business']		= "За бизнес (b2b)";
+$lang['activity_other']			= "Останалите";
 
 
 $lang['invoice_status'][0]		= "Неизвестный статус";
@@ -59,7 +59,7 @@ $lang['period_search_year']		 	= "год";
 
 /* Публичные страницы — Сайдбар */
 $lang['public_sidebar_nav_header_main']	= "О проекте";
-$lang['public_sidebar_nav_header_about']		= "Как это работает";
+$lang['public_sidebar_nav_header_about']		= "Как работи това";
 
 
 $lang['public_sidebar_nav_header_for_merchant']	= "Продавцам";
