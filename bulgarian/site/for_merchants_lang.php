@@ -1,10 +1,9 @@
 <?
 
-$lang['site_merchants_intro_1'] = 'Вы хотите иметь <strong>больше платящих клиентов</strong> в вашем заведении
-(ресторане, магазине, SPA)?';
+$lang['site_merchants_intro_1'] = 'Вие искате да имете <strong>повече клиенти</strong> във вашето място или заведение (ресторан, магазин, СПА)?';
 $lang['site_merchants_intro_2'] = 'Агенты из вашего города, а также из других городов и стран будут направлять к вам туристов, рекомендуя вас. <strong>Просто зарегистрируйтесь</strong> в Glex!';
 
-$lang['site_merchants_how_to_earn_money_title'] = 'Как мне зарабатывать с Glex?';
+$lang['site_merchants_how_to_earn_money_title'] = 'Как да печеля с Glex?';
 $lang['site_merchants_how_to_earn_money_desc'] = 'Полностью о том, как работает наша система вы можете узнать на схеме';
 
 
