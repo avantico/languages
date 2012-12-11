@@ -65,6 +65,6 @@ $lang['site_main_cases_merchants_block_spa'] = 'SPA';
 $lang['site_main_cases_merchants_block_spa_content'] = 'Привлечение клиента — всегда непростая задача. Используйте возможности бесплатной рекламной площадки Glex и принимайте новых платящих клиентов!';
 $lang['site_main_cases_merchants_block_park'] = 'Парк';
 $lang['site_main_cases_merchants_block_park_content'] = 'Регистрация вашего парка развлечений или аттракционов в Glex позволит множеству агентов Glex из разных стран мира рекомендовать вас туристам, которые отправляются в ваш город. А вам - получать новых клиентов.';
-$lang['site_main_cases_merchants_block_rent'] = 'Ресторан';
+$lang['site_main_cases_merchants_block_rent'] = 'Прокат';
 $lang['site_main_cases_merchants_block_rent_content'] = 'Сделайте свой пункт проката более популярным и прибыльным вместе с Glex. Добавьте информацию о себе в нашу базу данных и принимайте новых клиентов!';
 /* Конец Блока Заведений */
