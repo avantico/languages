@@ -15,4 +15,5 @@ $lang['site_about_glex_mission_desc'] = 'Мы видим своей миссие
 
 $lang['site_about_links_how_it_works'] = 'Рассказ о специфике работы системы вы найдете в разделе';
 $lang['site_about_links_blog'] = 'Неформальный рассказ о жизни и развитии Glex читайте в блоге проекта';
-$lang['site_about_links_subscribe'] = 'Становитесь нашим подписчиком в ';
+$lang['site_about_links_subscribe'] = 'Становитесь нашим подписчиком <br/>в ';
+$lang['site_about_links_subscribe_or'] = 'или';
