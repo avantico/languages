@@ -1,83 +1,83 @@
 <?
 
 $lang['site_merchants_intro_1'] = 'Вие искате да имете <strong>повече клиенти</strong> във вашето място или заведение (ресторан, магазин, СПА)?';
-$lang['site_merchants_intro_2'] = 'Агенты из вашего города, а также из других городов и стран будут направлять к вам туристов, рекомендуя вас. <strong>Просто зарегистрируйтесь</strong> в Glex!';
+$lang['site_merchants_intro_2'] = 'Агенти от вашият град, а също така от други градове и държави ще насочват към вас туристи, препоръчваики вашето място. <strong>Просто се регистрирайте</strong> в Glex!';
 
 $lang['site_merchants_how_to_earn_money_title'] = 'Как да печеля с Glex?';
 $lang['site_merchants_how_to_earn_money_desc'] = 'Полностью о том, как работает наша система вы можете узнать на схеме';
 
 
-$lang['site_merchants_how_to_earn_money_step_1'] = 'Зарегистрируйтесь на сайте';
-$lang['site_merchants_how_to_earn_money_step_2'] = 'Внесите информацию о своем заведении';
-$lang['site_merchants_how_to_earn_money_step_3'] = 'Укажите условия предоставления бонуса для туриста и размер комиссионных для Агента';
-$lang['site_merchants_how_to_earn_money_step_4'] = 'Принимайте туристов, приходящих по рекомендациям Агентов Glex';
-$lang['site_merchants_how_to_earn_money_step_5'] = 'Увеличивайте свой доход и выплачивайте комиссионные Агентам ';
+$lang['site_merchants_how_to_earn_money_step_1'] = 'Регистрирайтесе на сайта';
+$lang['site_merchants_how_to_earn_money_step_2'] = 'Качете информация за своето място или заведение';
+$lang['site_merchants_how_to_earn_money_step_3'] = 'Посочете условията за предоставяне на вашата оферта за туриста и размера на комисионните за Агента';
+$lang['site_merchants_how_to_earn_money_step_4'] = 'Посрещайте туристи, пристигащи с препоръки от Агента на Glex';
+$lang['site_merchants_how_to_earn_money_step_5'] = 'Увеличавайте своят доход и плащайте комисионни на Агентите';
 
-$lang['site_merchants_who_can_earn_money_title'] = 'Кто может зарабатывать с Glex?';
-$lang['site_merchants_who_can_earn_money_intro'] = 'С помощью агентов, зарегистрированных в Glex, <strong>любое туристическое заведение</strong> сможет получать <strong>больше платящих клиентов</strong>';
+$lang['site_merchants_who_can_earn_money_title'] = 'Кой може да печели със системата Glex?';
+$lang['site_merchants_who_can_earn_money_intro'] = 'С помощта на регистрираните агенти в системата Glex, <strong>всяко туристическо място</strong> може да получи <strong>повече платежоспособни клиенти</strong>';
 
-$lang['site_merchants_agent_case_hotel'] = 'Отель (и его персонал)';
-$lang['site_merchants_agent_case_hotel_desc'] = 'Ваша реклама лежит на reception и в номерах отеля. Сотрудники отеля рекомендуют ваше заведение.';
+$lang['site_merchants_agent_case_hotel'] = 'Хотела (и неговият персонал)';
+$lang['site_merchants_agent_case_hotel_desc'] = 'Вашата реклама ще бъде на рецепцията и в хотелските номера. Сътрудниците на хотела ще препоръчват вашето място.';
 
-$lang['site_merchants_agent_case_incoming_touroperator'] = 'Принимающий туроператор (и его гиды)';
-$lang['site_merchants_agent_case_incoming_touroperator_desc'] = 'Ваша реклама выдается туристам в виде рекламных буклетов при прибытии в аэропорт. Гиды рекомендуют ваше заведение туристам и приводят к вам их лично.';
+$lang['site_merchants_agent_case_incoming_touroperator'] = 'Посрещащия туроператор (и неговите екскурзоводи)';
+$lang['site_merchants_agent_case_incoming_touroperator_desc'] = 'Вашата реклама ще бъде предлагана на туристите във вид на рекламни брошури при пристигането им на летището. Екскурзоводите ще препоръчват вашето заведение на туристите и ще ги доведат до вас лично.';
 
-$lang['site_merchants_agent_case_outgoing_touroperator'] = 'Отправляющий туроператор';
-$lang['site_merchants_agent_case_outgoing_touroperator_desc'] = 'Ваша реклама выдается сотрудником туроператора туристу при покупке тура вместе с билетом и ваучером на гостиницу.';
+$lang['site_merchants_agent_case_outgoing_touroperator'] = 'Изпращащия туроператор';
+$lang['site_merchants_agent_case_outgoing_touroperator_desc'] = 'Вашата реклама ще бъде дадена на туриста от сътрудникът на турагентството, заедно с билет и ваучер на хотела при закупуване на екскурзията.';
 
-$lang['site_merchants_agent_case_travel_web_site'] = 'Туристический веб-сайт';
-$lang['site_merchants_agent_case_travel_web_site_desc'] = 'Сайты бронирования туров, авиабилетов, информационные порталы устанавливают на своих страницах специальные виджеты с рекламой вашего заведения.';
+$lang['site_merchants_agent_case_travel_web_site'] = 'Туристически уеб-сайт';
+$lang['site_merchants_agent_case_travel_web_site_desc'] = 'Сайтовете за брониране на екскурзии, самолетни билети, информационни портали качват на своите страници специални виджети с реклама на вашето място.';
 
-$lang['site_merchants_agent_case_excursions'] = 'Экскурсионное бюро';
-$lang['site_merchants_agent_case_excursions_desc'] = 'При покупке экскурсии сотрудники бюро предлагают туристам листовки с рекламой вашего заведения. Во время экскурсии гид приводит группу туристов в ваше заведение.';
+$lang['site_merchants_agent_case_excursions'] = 'Бюро за туризъм';
+$lang['site_merchants_agent_case_excursions_desc'] = 'При закупуването на екскурзии сътрудниците на тур агенството предлагат на туристите брушури с реклама на вашето място. Във време на екскурзиите екскурзовода ще заведе групата туристи във вашето място.';
 
-$lang['site_merchants_agent_case_taxi'] = 'Служба такси';
-$lang['site_merchants_agent_case_taxi_desc'] = 'Таксисты рекомендуют ваше заведение, предлагают туристами листовки с его рекламой, привозят туристов к вашему заведению.';
+$lang['site_merchants_agent_case_taxi'] = 'Фирма за такси';
+$lang['site_merchants_agent_case_taxi_desc'] = 'Таксиметровите шофьори ще препоръчват   вашето място, предлагайки на туристите брошури с неговата реклама.';
 
 $lang['site_merchants_agent_case_info_center'] = 'Справочное бюро';
-$lang['site_merchants_agent_case_info_center_desc'] = 'Выдавая справку о городе, сотрудники туристического справочного бюро рекомендуют ваше заведение, предлагают туристами листовки с его рекламой.';
+$lang['site_merchants_agent_case_info_center_desc'] = 'Даваики справку о городе, сотрудники туристического справочного бюро рекомендуют ваше заведение, предлагают туристами листовки с его рекламой.';
 
-$lang['site_merchants_agent_case_travel_book'] = 'Туристический справочник по городам';
-$lang['site_merchants_agent_case_travel_book_desc'] = 'В туристическом справочники о вашем городе размещается информация о вашем заведении и скидках, которые вы предоставляете';
+$lang['site_merchants_agent_case_travel_book'] = 'Туристически пътеводител за градовете';
+$lang['site_merchants_agent_case_travel_book_desc'] = 'В туристичесият пътеводител за вашият градсе поставя информация за вашето място и оферта, която вие предлагате';
 
-$lang['site_merchants_agent_case_travel_mobile_app'] = 'Туристическое мобильное приложение';
-$lang['site_merchants_agent_case_travel_mobile_app_desc'] = 'В туристическом мобильном приложении о вашем городе размещается реклама вашего заведения и рекомендация его посетить.';
+$lang['site_merchants_agent_case_travel_mobile_app'] = 'Туристическо приложение за мобилни телефони';
+$lang['site_merchants_agent_case_travel_mobile_app_desc'] = 'В туристическото приложение за мобилни телефони за вашият град се поставя реклама за вашето място с препоръка да бъде посетено.';
 
 
-$lang['site_merchants_merchant_case_restaurant'] = 'Ресторан';
+$lang['site_merchants_merchant_case_restaurant'] = 'Ресторант';
 $lang['site_merchants_merchant_case_shop'] = 'Магазин';
-$lang['site_merchants_merchant_case_spa'] = 'SPA (салон красоты)';
-$lang['site_merchants_merchant_case_club'] = 'Ночной клуб (дискотека)';
-$lang['site_merchants_merchant_case_park'] = 'Парк развлечений';
+$lang['site_merchants_merchant_case_spa'] = 'СПА (салон за красота)';
+$lang['site_merchants_merchant_case_club'] = 'Нощен клуб (дискотека)';
+$lang['site_merchants_merchant_case_park'] = 'Увеселителен парк';
 $lang['site_merchants_merchant_case_show'] = 'Шоу';
-$lang['site_merchants_merchant_case_rent_sport'] = 'Прокат спортивного оборудования';
-$lang['site_merchants_merchant_case_rent_car'] = 'Прокат авто';
-$lang['site_merchants_merchant_case_museum'] = 'Частный музей';
+$lang['site_merchants_merchant_case_rent_sport'] = 'Спортно оборудване под наем';
+$lang['site_merchants_merchant_case_rent_car'] = 'Коли под наем ';
+$lang['site_merchants_merchant_case_museum'] = 'Частен музей';
 
 
 
 
-$lang['site_merchants_thesis_free_title'] = 'Бесплатный сервис!';
-$lang['site_merchants_thesis_free_desc'] = 'Glex — бесплатная рекламная площадка для вашего заведения и бесплатный сервис вашего взаимодействия с Агентами. Вы платите комиссию только, когда получаете результат — приведенных Агентами Glex и приносящих вам доход клиентов.';
-$lang['site_merchants_thesis_clients_title'] = 'Больше клиентов!';
-$lang['site_merchants_thesis_clients_desc'] = 'Агенты Glex из вашего города, а также из других городов и стран будут рекомендовать ваше заведение туристам, с которыми они работают.';
-$lang['site_merchants_thesis_time_title'] = 'Экономия времени!';
-$lang['site_merchants_thesis_time_desc'] = 'Вам не требуется ни личных знакомств, ни переговоров ни с одним из Агентов. Все договоренности обеспечивает и поддерживает Glex.';
+$lang['site_merchants_thesis_free_title'] = 'Бесплатен сервис!';
+$lang['site_merchants_thesis_free_desc'] = 'Glex — безплатна интернет реклама за вашето място и бесплатен сервис за вашето взаимодействие с Агентите. Вие ще платите комисионна тогава, когато получите резултат — постигнат от Агентите на Glex и вашата печалба от клиенти.';
+$lang['site_merchants_thesis_clients_title'] = 'Повече клиенти!';
+$lang['site_merchants_thesis_clients_desc'] = 'Агентите на Glex от вашият град, а също така от други градове и страни ще препоръчват вашето място на туристите, с които те работят.';
+$lang['site_merchants_thesis_time_title'] = 'Економия на време!';
+$lang['site_merchants_thesis_time_desc'] = 'От вас не се изисква нито лични срещи, нито събеседване и преговори с Агента. Всички видове договори осигурява и поддържа Glex.';
 $lang['site_merchants_thesis_auto_title'] = 'Автоматизация!';
-$lang['site_merchants_thesis_auto_desc'] = 'Glex ведет за вас полный автоматизированный учёт всех вознаграждений, которые вы начислили  агентам. Больше не нужно беспокоиться, что в суете, вы забудете выписать комиссионные Агенту.';
-$lang['site_merchants_thesis_payments_title'] = 'Удобство расчетов!';
-$lang['site_merchants_thesis_payments_desc'] = 'Не нужно вести расчеты с каждым Агентом отдельно. Вместо  множества расчетов один раз в месяц вы оплачиваете все вознаграждения «Агентам» одним платежом в Glex. И Glex сам отправляет каждому из Агентов столько, сколько он заработал.';
-$lang['site_merchants_thesis_contacts_title'] = 'Новые контакты!';
-$lang['site_merchants_thesis_contacts_desc'] = 'База Агентов Glex постоянно пополняется. Вы можете сотрудничать с Агентами по всему миру. Через Glex вы получаете новые деловые контакты и новых партнеров из других городов и стран.';
+$lang['site_merchants_thesis_auto_desc'] = 'Glex прави за вас   автоматизирани  счетоводни операции за всички възнаграждения, които вие сте начислили на агентите. Повече не е необходимо да се безпокоите, че може да забравите при начисляването и изплащането на комисионните на Агента.';
+$lang['site_merchants_thesis_payments_title'] = 'Лесно и удобно счетоводство!';
+$lang['site_merchants_thesis_payments_desc'] = 'Не е нужно да водите на всеки Агент отделно счетоводство. Вместо множество сметки, вие един път в месеца, ще плащате всички възнаграждения на «Агентите» само с една фактура в Glex. И Glex сам ще плаща на всеки един от Агентите толкова, колкото той е заработил.';
+$lang['site_merchants_thesis_contacts_title'] = 'Нови контакти!';
+$lang['site_merchants_thesis_contacts_desc'] = 'Базата данни от Агенти на Glex постоянно се обновява. Вие може да си сътрудничите с Агенти по целият свят. Със системата Glex вие получавате нови делови контакти и нови бизнес партньори от други градове и държави..';
 
-$lang['site_merchants_question_free'] = 'Нужно ли платить за использование системы Glex?';
-$lang['site_merchants_answer_free'] = 'Нет, использование системы Glex бесплатно как для Агентов, так и для Заведений.';
-$lang['site_merchants_question_tourist'] = 'Как я узнаю, что турист пришел по программе Glex?';
-$lang['site_merchants_answer_tourist'] = 'Турист покажет вам рекламный носитель Агента (ссылка на промо-сайт. блок о рекламных носителях Агента),  на котором будет его номер  и QR-код, чтобы получить бонус или скидку.';
-$lang['site_merchants_question_bonus'] = 'Какой бонус указывать для туриста?';
-$lang['site_merchants_answer_bonus'] = 'Бонусом для туриста может стать скидка (5-10%), угощение, бокал вина, чашка кофе/чая и т.д.';
+$lang['site_merchants_question_free'] = 'Нужно ли е да платим за възможноста да използваме системата на Glex?';
+$lang['site_merchants_answer_free'] = 'Не, не е нужно. Използването на системата Glex е безплатно, както за Агенти, така също и за места и заведения.';
+$lang['site_merchants_question_tourist'] = 'Как ще разбера, че туриста е дошъл по-програмата Glex?';
+$lang['site_merchants_answer_tourist'] = 'Туриста ще Ви покаже рекламенят носител на Агент (линк на промоционален рекламен код притежаван от Агента),  на който ще бъде и неговият номер с QR-код, за да получите оферта.';
+$lang['site_merchants_question_bonus'] = 'Каква оферта да предложа на туриста?';
+$lang['site_merchants_answer_bonus'] = 'Оферта за туриста може да стане намаление (от 5-10%), почерпете ги с нещо, чаша вино, кафе/чай и т.н.';
 
-$lang['site_merchants_if_more_questions'] = 'Если у вас остались вопросы, вы найдете ответы на них в разделе';
+$lang['site_merchants_if_more_questions'] = 'Ако имате още въпроси, отидете в раздела "Въпроси и отговори"';
 
-$lang['site_merchants_outro'] = 'Мы создали Glex для того, чтобы сделать ваш бизнес комфортнее и прибыльнее';
-$lang['site_merchants_outro_register'] = 'Теперь от вас требуется только один шаг — зарегистрироваться в нашей системе и начать пользоваться ею.';
+$lang['site_merchants_outro'] = 'Ние сме създали системата Glex, за да направим вашият бизнес приятен,привлекателен и печеливш';
+$lang['site_merchants_outro_register'] = 'От Вас е необходимо само да се регистрирате в нашата система за да започнете да я използвате.';
