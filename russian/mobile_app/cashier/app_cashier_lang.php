@@ -1,8 +1,14 @@
 <?php
 
-$lang['app_cashier_aaa'] = "aaa_rus";
-$lang['app_cashier_bbb'] = "bbb_rus";
-$lang['app_cashier_ccc'] = "ccc_rus";
+$lang['app_cashier_login_btn'] = "Войти";
+
+
+$lang['app_cashier_login_title'] = "Авторизация";
+
+$lang['app_cashier_login'] = "E-mail или ID кассира";
+$lang['app_cashier_password'] = "Пароль";
+
+$lang['app_cashier_login_btn'] = "Войти";
 
 
 

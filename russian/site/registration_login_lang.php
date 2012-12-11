@@ -1,109 +1,47 @@
 <?
 
-$lang['ru'] = 'Русский';
-$lang['en'] = 'Английский';
-$lang['select_default'] = 'Выберите...';
-$lang['id'] = 'Ваш ID';
+$lang['site_login_header'] = 'Введите учетные данные';
+$lang['site_login_login_title'] = 'E-mail';
+$lang['site_login_password_title'] = 'Пароль';
+$lang['site_login_login_action'] = 'Войти';
+$lang['site_login_forgot_password_link'] = 'Забыли пароль?';
 
-$lang['close'] 		= "Закрыть";
-$lang['save'] 		= "Сохранить";
-$lang['cancel'] 	= "Отменить";
-$lang['edit'] 		= "Редактировать";
-$lang['login'] 		= "Вход";
-$lang['register'] 	= "Регистрация";
-
-$lang['back_to_profile']	= "Вернуться в профиль";
-
-$lang['next'] 		= "Далее";
-$lang['prev'] 		= "Назад";
-
-$lang['turn_on'] 	= "Включить";
-$lang['turn_off']	= "Выключить";
-
-
-$lang['back'] = "Назад";
-$lang['confirm'] = "Подтвердить";
-
-$lang['activity_travel']		= "Туризм, отели, экскурсии";
-$lang['activity_shops']			= "Магазины";
-$lang['activity_restraunts']	= "Бары, рестораны";
-$lang['activity_entertainment']	= "Шоу, развлечения";
-$lang['activity_media']			= "Web, реклама, медиа";
-$lang['activity_house']			= "Всё для дома, мебель";
-$lang['activity_style']			= "Мода, стиль, роскошь";
-$lang['activity_realty']		= "Недвижимость";
-$lang['activity_auto']			= "Авто, транспорт";
-$lang['activity_health']		= "Здоровье и спорт";
-$lang['activity_education']		= "Образование";
-$lang['activity_business']		= "Для бизнеса (b2b)";
-$lang['activity_other']			= "Прочее";
-
-
-$lang['invoice_status'][0]		= "Неизвестный статус";
-$lang['invoice_status'][1]		= "Ожидает оплаты";
-$lang['invoice_status'][2]		= "В обработке";
-$lang['invoice_status'][3]		= "Оплачен";
-$lang['invoice_status'][4]		= "Удален";
-
-
-/* Настройки поиска */
-$lang['search']						= "Искать";
-$lang['search_settings']			= "Настройки поиска";
-$lang['period_search_from'] 		= "Показывать период с ";
-$lang['period_search_to']	 		= "по";
-$lang['period_search_during']		= "За";
-$lang['period_search_week']		 	= "неделю";
-$lang['period_search_month']	 	= "месяц";
-$lang['period_search_year']		 	= "год";
-
-
-/* Публичные страницы — Сайдбар */
-$lang['public_sidebar_nav_header_main']	= "О проекте";
-$lang['public_sidebar_nav_header_about']		= "Как это работает";
-
-
-$lang['public_sidebar_nav_header_for_merchant']	= "Продавцам";
-$lang['public_sidebar_nav_header_merchant']		= "Продавец";
-$lang['public_sidebar_nav_header_example_merchant']	= 'Пример "Ресторан"';
-$lang['public_sidebar_nav_header_scanner']		= "Сканер QR-кодов";
-$lang['public_sidebar_nav_header_profile']		= "Как заполнить профиль";
-
-
-$lang['public_sidebar_nav_header_for_agent']	= "Агентам";
-$lang['public_sidebar_nav_header_agent']		= "Агент";
-$lang['public_sidebar_nav_header_example_agent']= 'Пример "Рекламное агентство"';
+$lang['site_forgot_password_header'] = 'Восстановление пароля';
+$lang['site_forgot_password_enter_email'] = 'Введите E-mail на который производилась регистрация';
+$lang['site_forgot_password_action'] = 'Восстановить';
 
 
 
+$lang['site_register_title'] 					= 'Регистрация';
 
-//ПРОМО
+$lang['site_register_user_email'] 				= 'E-mail';
+$lang['site_register_user_email_placeholder'] 	= 'Введите адрес электронной почты';
 
-$lang['promo_hero_h2']			= "GLEX — это международная система взаиморасчетов в сфере туристических агентских вознаграждений";
-$lang['promo_hero_p']			= "Больше полезных рекомендаций для туристов! Больше клиентов для туристических заведений! Больше заработок для агентов!";
+$lang['site_register_user_password'] 			= 'Пароль';
+$lang['site_register_user_password_placeholder']	= 'Введите пароль';
 
-$lang['promo_double_hero_left_li'] = "<li><span>Отель</span></li><li><span>Турпортал</span></li><li><span>Туроператор</span></li><li><span>Турагентство</span></li><li><span>Издание</span></li>";
-$lang['promo_double_hero_right_li'] = "<li><span>Ресторан</span></li><li><span>Магазин</span></li><li><span>СПА</span></li><li><span>Парк</span></li><li><span>Прокат</span></li>";
+$lang['site_register_user_tmp_name'] 			= 'Компания';
+$lang['site_register_user_tmp_name_placeholder'] = 'Ваше имя или название компании';
 
-$lang['promo_double_hero_left_h1'] = "Агенты";
-$lang['promo_double_hero_right_h1'] = "Заведения";
+$lang['site_register_jurisdiction_check']		= 'Выберите...';
+$lang['site_register_jurisdiction_id'] 			= 'Юрисдикция';
 
-$lang['promo_double_hero_left_h5'] = "Glex для агентов &mdash; это:";
-$lang['promo_double_hero_right_h5'] = "Glex для туристических <br/>заведений &mdash; это:";
+$lang['site_register_user_main_role'] 			= 'Основная роль';
+$lang['site_register_user_role_agent'] 			= 'Агент';
+$lang['site_register_user_role_merchant'] 		= 'Заведение';
 
-$lang['promo_double_hero_left_features_li'] = "<li>Возможность эффективно зарабатывать на рекомендациях, предоставляемых туристам</li><li>Доступ к актуальной базе туристических заведений вашего города, готовых платить агентские вознаграждения</li><li>Удобная система учета вознаграждений за сделанные рекомендации</li>";
-$lang['promo_double_hero_right_features_li'] = "<li>Рекламная площадка с оплатой только за результат – приведенного клиента </li><li>Возможность получать больше клиентов и сотрудничать с большим числом агентов, централизованно оплачивая их услуги</li><li>Эффективная технология идентификации агента</li>";
+$lang['site_register_user_agreement'] 			= 'Я согласен с условиями ';
+$lang['site_register_user_agreement_link'] 		= 'пользовательского соглашения';
 
+$lang['site_register_submit'] 					= 'Зарегистрироваться';
 
-$lang['promo_thesis_h3_1'] = "Glex это";
-$lang['promo_thesis_h3_2'] = "Преимущества Glex";
-$lang['promo_thesis_h3_3'] = "Это бесплатно";
+$lang['site_register_errors_required']			= 'Это поле необходимо заполнить.';
+$lang['site_register_errors_valid_email']		= 'Вы ввели неправильный e-mail.';
+$lang['site_register_errors_min_length']			= 'Поле "%s" должно быть длиной минимум %s символов.';
+$lang['site_register_errors_max_length']			= 'Поле "%s" должно быть длиной максимум %s символов.';
+$lang['site_register_errors_is_unique'] 			= 'Такой %s уже существует!';
+$lang['site_register_errors_main'] 				= 'Возникли ошибки при заполнении формы!';
+$lang['site_register_errors_agreement'] 			= 'Подтвердите согласие с условиями';
 
-$lang['promo_thesis_p_1'] = "Для туристических заведений Glex — это рекламная технология, которая позволяет получать новых клиентов  с оплатой за результат.</p><p>Для агентов Glex — это актуальная база заведений, которые готовы платить комиссионные агентам за приведенных туристов.";
-
-$lang['promo_thesis_p_2'] = "<ul><li>Технология мгновенной идентификации давшего рекомендацию агента с помощью QR-кода</li><li>Автоматизированный учёт всех сделанных агентами рекомендаций и начисленных заведениями вознаграждений</li><li>Резкое упрощение наведения новых контактов и проведения регулярных расчетов агентов и заведений между собой</li></ul>";
-
-$lang['promo_thesis_p_3'] = "Мы не взимаем платы за пользование Glex ни с агентов, ни с заведений.</p><p>Наша комиссия возникает только в том случае, когда произошла успешная сделка и мы помогли заработать вам!";
-//ПРОМО
-
-
-?>
+$lang['site_confirm_email_header']				= 'Подтверждение регистрации на Glex.com';
+$lang['site_confirm_email_text']					= 'Для подтверждения регистрации перейдите, пожалуйста по ссылке: ';
