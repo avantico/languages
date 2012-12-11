@@ -1,6 +1,6 @@
 <?
 
-$lang['site_agents_intro_1'] = 'Вие имате постоянно  <strong>контактируете с туристами</strong> и рекомендуете им туристические заведения: рестораны, магазины, места за наеми?';
+$lang['site_agents_intro_1'] = 'Вие подържата постоянно  <strong>контакт с туристи</strong>, препоръчвате им туристически места и заведения: ресторанти, магазини, места под аренда?';
 $lang['site_agents_intro_2'] = 'С наша помощт вие ще давате такива препоръки по-ефективно, удобно и бързо, а <strong>ще печелите — значително повече!</strong>';
 
 $lang['site_agents_how_to_earn_money_title'] = 'Как да печеля със системата Glex?';
@@ -20,19 +20,19 @@ $lang['site_agents_table_colunn_type'] = 'Носители на информац
 
 $lang['site_agents_table_row_hotel_agent'] = 'Хотел';
 $lang['site_agents_table_row_hotel_how_li_1'] = 'Раздавайте готови брошури с препоръки на рецепцията в хотела';
-$lang['site_agents_table_row_hotel_how_li_2'] = 'Моментално оформете индивидуални препоръки по желание на туриста';
+$lang['site_agents_table_row_hotel_how_li_2'] = 'Моментално оформяйте индивидуални препоръки по желание на туриста';
 $lang['site_agents_table_row_hotel_how_li_3'] = 'Оставете брошура с препоръки на местата и заведенията в хотелските стаи';
 $lang['site_agents_table_row_hotel_type_li_1'] = 'Подготвените в личният офис на Glex и распечатени на принтер списъци на препоръчаните заведения във вашият град';
 $lang['site_agents_table_row_hotel_type_li_2'] = 'Travel-карти с QR-код, даващи право на оферта във всяко заведение с емблемата на Glex';
 
 
-$lang['site_agents_table_row_incoming_touroperator_agent'] = 'Посрещащ туроператор';
+$lang['site_agents_table_row_incoming_touroperator_agent'] = 'Посрещащият туроператор';
 $lang['site_agents_table_row_incoming_touroperator_how_li_1'] = 'Раздайте  на вашите туристи брошури и специалните travel-карти на летището, в автобусите, в хотелите и на други места където имате контакт с тях';
 $lang['site_agents_table_row_incoming_touroperator_how_li_2'] = 'Намерете с помощта на Glex удобният начин за препоръки, давани от вашите сътрудници и постъпващите от тези препоръки платежни средства';
 $lang['site_agents_table_row_incoming_touroperator_type_li_1'] = 'Подготвените в личният офис на Glex и распечатени на принтер списъци на препоръчаните заведения във вашият град';
 $lang['site_agents_table_row_incoming_touroperator_type_li_2'] = 'Travel-карти с QR-код, даващи право на оферта във всяко заведение с емблемата на Glex';
 
-$lang['site_agents_table_row_outgoing_touroperator_agent'] = 'Изпращащ туроператор';
+$lang['site_agents_table_row_outgoing_touroperator_agent'] = 'Изпращащият туроператор';
 $lang['site_agents_table_row_outgoing_touroperator_how_li_1'] = 'Раздайте на вашите туристи брошури с подбрани препоръки на места и заведения в градовете които ще посетят';
 $lang['site_agents_table_row_outgoing_touroperator_type_li_1'] = 'Подготвените в личният офис на Glex и распечатени на принтер списъци на препоръчаните заведения във вашият град';
 $lang['site_agents_table_row_outgoing_touroperator_type_li_2'] = 'Travel-карти с QR-код, даващи право на оферта във всяко заведение с емблемата на Glex';
