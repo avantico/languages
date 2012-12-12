@@ -1,70 +1,70 @@
 <?
 /* Начало страницы */
-$lang['site_main_page_title'] = 'Glex – это международная система взаиморасчетов в сфере туристических агентских вознаграждений';
-$lang['site_main_page_title_description'] = 'Больше полезных рекомендаций для туристов! Больше клиентов для туристических заведений! Больше заработок для агентов!';
+$lang['site_main_page_title'] = 'Glex is an international system for mutual settlements';
+$lang['site_main_page_title_description'] = 'More useful recommendations for tourists! More clients for tourist attractions! More earnings for agents!';
 
 /* Первая колонка "Система Glex это:" */
-$lang['site_main_thesis_glex_title'] = 'Система Glex это:';
-$lang['site_main_thesis_glex_p1'] = 'Для туристических заведений Glex — это рекламная технология, которая позволяет получать новых клиентов с оплатой за результат.';
-$lang['site_main_thesis_glex_p2'] = 'Для агентов Glex — это актуальная база заведений, которые готовы платить комиссионные агентам за приведенных туристов.';
-$lang['site_main_thesis_glex_more_link'] = 'Подробнее о системе и ее устройстве';
+$lang['site_main_thesis_glex_title'] = 'Glex system is:';
+$lang['site_main_thesis_glex_p1'] = 'Glex allows businesses in tourist industry to attract new clients with payments based on results.';
+$lang['site_main_thesis_glex_p2'] = 'Glex allows agents to gain access to the network of businesses that are ready to pay commission for referred clients.';
+$lang['site_main_thesis_glex_more_link'] = 'More about the system and how it wotks';
 
 /* Вторая колонка "Преимущества Glex" */
-$lang['site_main_thesis_advantages_title'] = 'Преимущества Glex';
-$lang['site_main_thesis_advantages_li_1'] = 'Технология мгновенной идентификации давшего рекомендацию агента с помощью QR-кода';
-$lang['site_main_thesis_advantages_li_2'] = 'Автоматизированный учет всех сделанных агентами рекомендаций и начисленных заведениями вознаграждений';
-$lang['site_main_thesis_advantages_li_3'] = 'Резкое упрощение наведения новых контактов и проведения регулярных расчетов агентов и заведений между собой';
+$lang['site_main_thesis_advantages_title'] = 'Advantages of Glex:';
+$lang['site_main_thesis_advantages_li_1'] = 'Technology that allows instant identification of an agent that referred a client using QR-code';
+$lang['site_main_thesis_advantages_li_2'] = 'Automated accounting system of all referrals made by agents and rewards transferred from businesses ';
+$lang['site_main_thesis_advantages_li_3'] = 'Great simplicity in establishing new networking opportunities and regular transactions between agents and businesses';
 
 
 /* Третья колонка "Это бесплатно!" */
-$lang['site_main_thesis_free_title'] = 'Это бесплатно!';
-$lang['site_main_thesis_free_p'] = 'Мы не взимаем платы за пользование Glex ни с агентов, ни с заведений. Наша комиссия возникает только в том случае, когда произошла успешная сделка, и мы помогли заработать вам!';
-$lang['site_main_thesis_free_more_link'] = 'Другие вопросы о Glex';
+$lang['site_main_thesis_free_title'] = 'It’s free!';
+$lang['site_main_thesis_free_p'] = 'We charge neither agents nor businesses for using Glex. Our commission only occurs if we have successfully brought you a new customer!';
+$lang['site_main_thesis_free_more_link'] = 'Other questions about Glex';
 
 
 
-$lang['site_main_cases_block_more'] = 'ПОДРОБНЕЕ';
-$lang['site_main_cases_block_back'] = 'Назад';
+$lang['site_main_cases_block_more'] = 'more';
+$lang['site_main_cases_block_back'] = 'back';
 
 /* Блок Агентам */
-$lang['site_main_cases_agents_block_name'] = 'Агентам';
-$lang['site_main_cases_agents_block_intro'] = 'Вы контактируете с туристами и рекомендуете им туристические заведения? 
-С Glex вы будете рекомендовать эффективнее, а зарабатывать больше!';
+$lang['site_main_cases_agents_block_name'] = 'For Agents';
+$lang['site_main_cases_agents_block_intro'] = 'You always deal with tourists and recommend them tourist attractions? 
+Glex will help you make this more effective and profitable!';
 
-$lang['site_main_cases_agents_block_li_intro'] = 'Glex для агентов:';
-$lang['site_main_cases_agents_block_li_1'] = 'возможность эффективно зарабатывать на рекомендациях';
-$lang['site_main_cases_agents_block_li_2'] = 'доступ к актуальной базе туристических заведений, готовых платить агентские вознаграждения';
-$lang['site_main_cases_agents_block_li_3'] = 'удобная система учета сделанных рекомендаций';
-$lang['site_main_cases_agents_block_hotel'] = 'Отель';
-$lang['site_main_cases_agents_block_hotel_content_p1'] = 'Каждый день к стойке вашего отеля подходят туристы с просьбой дать рекомендацию по ресторанам, магазинам, развлечениям в округе. С помощью Glex сделать такую рекомендацию стало гораздо проще, удобнее и выгоднее, чем прежде!';
-$lang['site_main_cases_agents_block_hotel_content_p2'] = 'Дайте гостям вашего отеля актуальную информацию о достойных заведениях, предоставляющих скидки и бонусы клиентам. Ваш постоялец будет вам признателен. А вы получите денежное вознаграждение!';
-$lang['site_main_cases_agents_block_touroperator'] = 'Туроператор';
+$lang['site_main_cases_agents_block_li_intro'] = 'Glex for Agents:';
+$lang['site_main_cases_agents_block_li_1'] = 'Makes it possible to earn more through recommendations.';
+$lang['site_main_cases_agents_block_li_2'] = 'Gives access to the up-to-date worldwide network of businesses ready to pay you for new clients';
+$lang['site_main_cases_agents_block_li_3'] = 'Provides accountability of recommendations given to tourists';
+$lang['site_main_cases_agents_block_hotel'] = 'Hotel';
+$lang['site_main_cases_agents_block_hotel_content_p1'] = 'Every day you meet tourists in your hotel asking you to recommend them a restaurant, shop or entertainment place anywhere near. Glex helps you do this much easier, convenient, and profitable than before!';
+$lang['site_main_cases_agents_block_hotel_content_p2'] = 'If you provide your tourists with useful recommendations for good Businesses that are ready to give them discounts and bonuses, your guests will be satisfied and you will earn a remuneration!';
+$lang['site_main_cases_agents_block_touroperator'] = 'Tour operator';
 
-$lang['site_main_cases_agents_block_touroperator_content'] = 'Вы ежедневно отправляете туристов в разные города и страны? Предоставьте им дополнительный сервис! Дайте вашим туристам списки заведений, предоставляющих скидки и бонусы в тех городах, куда они направляются! Туристы будут благодарны вам, а вы будете получать дополнительный доход!';
-$lang['site_main_cases_agents_block_web'] = 'Веб-сайт';
-$lang['site_main_cases_agents_block_web_content'] = 'Вы владеете порталом бронирования отелей , покупки авиабилетов, туристическим информационным веб-сайтом или мобильным геолокационным приложением? Предоставьте вашим пользователям дополнительный сервис — информацию о туристических заведениях в разных городах, предоставляющих скидки и бонусы клиентам, а сами получите новый, эффективный источник заработка!';
-$lang['site_main_cases_agents_block_guide'] = 'Гид';
-$lang['site_main_cases_agents_block_guide_content'] = 'Вы занимаетесь приемом туристов в вашем городе, помогаете им с обустройством, показываете достопримечательности, проводите экскурсии? Наверняка, вы уже наладили партнерские отношения с различными туристическими заведениями. Мы предлагаем сделать эти отношения для вас более эффективными и прибыльными! Вы будете тратить меньше времени на рекомендации и получать гораздо больший доход!';
-$lang['site_main_cases_agents_block_press'] = 'Издание';
-$lang['site_main_cases_agents_block_press_content'] = 'Вы выпускаете журнал, газету или туристический справочник в курортном городе? Начните публиковать списки рекомендованных заведений, предоставляющих скидки и бонусы туристам! Ваши читатели будут вам признательны, а вы получите дополнительный доход!';
+$lang['site_main_cases_agents_block_touroperator_content'] = 'Every day you send tourists to various cities and countries? Provide them an additional service by recommending your tourists Businesses at their destination that will interest them with discounts and bonuses! Tourist will be thankful to you and you will earn a remuneration from these Businesses for new clients!';
+$lang['site_main_cases_agents_block_web'] = 'Website';
+$lang['site_main_cases_agents_block_web_content'] = 'You run a website for booking hotels, buying tickets, informational website or a mobile geolocation app? Imagine that you can enhance your business by using a service that would recommend to your users businesses which will be offering discounts and bonuses and get rewarded for the referrals!';
+$lang['site_main_cases_agents_block_guide'] = 'Guide';
+$lang['site_main_cases_agents_block_guide_content'] = 'Do you greet tourists in your city and help them with accommodation, sightseeing and guided tours? You have most likely already formed partner relationships with various businesses that attract tourists. Take these relationships to a new level - make them more efficient and more profitable! You will spend less time referring tourists to the places interest and receive significantly greater rewards!  ';
+$lang['site_main_cases_agents_block_press'] = 'Publication';
+$lang['site_main_cases_agents_block_press_content'] = 'Do you publish a magazine, newspaper, or tourist guide? Publish a list of recommended businesses that offer discounts and bonuses for tourists! Your readers will be thankful and you will receive an additional income!  ';
 /* Конец Блок Агентам */
 
 
 /* Начало Блока Заведений */
-$lang['site_main_cases_merchants_block_name'] = 'Заведениям';
-$lang['site_main_cases_merchants_block_intro'] = 'Вы хотите иметь больше клиентов в вашем заведении? Агенты из разных городов и стран будут направлять к вам туристов, рекомендуя ваше заведение. ';
-$lang['site_main_cases_merchants_block_li_intro'] = 'Glex для туристических заведений:';
-$lang['site_main_cases_merchants_block_li_1'] = 'рекламная площадка с оплатой за результат';
-$lang['site_main_cases_merchants_block_li_2'] = 'возможность сотрудничать с большим числом агентов, централизованно оплачивая их услуги';
-$lang['site_main_cases_merchants_block_li_3'] = 'эффективная технология идентификации агента';
-$lang['site_main_cases_merchants_block_restaurant'] = 'Ресторан';
-$lang['site_main_cases_merchants_block_restaurant_content'] = 'Вы хотели бы видеть больше клиентов в своем ресторане? Зарегистрируйтесь в Glex, внесите информацию о вашем заведении и принимайте новых гостей!';
-$lang['site_main_cases_merchants_block_shop'] = 'Магазин';
-$lang['site_main_cases_merchants_block_shop_content'] = 'Продажи в магазине никогда не бывают “слишком большими”. Зарегистрируйте свой магазин в Glex, и вас начнут рекомендовать Агенты вашего города и других городов и стран!';
-$lang['site_main_cases_merchants_block_spa'] = 'SPA';
-$lang['site_main_cases_merchants_block_spa_content'] = 'Привлечение клиента — всегда непростая задача. Используйте возможности бесплатной рекламной площадки Glex и принимайте новых платящих клиентов!';
-$lang['site_main_cases_merchants_block_park'] = 'Парк';
-$lang['site_main_cases_merchants_block_park_content'] = 'Регистрация вашего парка развлечений или аттракционов в Glex позволит множеству агентов Glex из разных стран мира рекомендовать вас туристам, которые отправляются в ваш город. А вам - получать новых клиентов.';
-$lang['site_main_cases_merchants_block_rent'] = 'Ресторан';
-$lang['site_main_cases_merchants_block_rent_content'] = 'Сделайте свой пункт проката более популярным и прибыльным вместе с Glex. Добавьте информацию о себе в нашу базу данных и принимайте новых клиентов!';
+$lang['site_main_cases_merchants_block_name'] = 'For Businesses';
+$lang['site_main_cases_merchants_block_intro'] = 'You wish to attract more clients to your business? Agents from different cities and countries will direct tourists to you by recommending them with Glex. ';
+$lang['site_main_cases_merchants_block_li_intro'] = 'Glex for tourist attractions:';
+$lang['site_main_cases_merchants_block_li_1'] = 'Advertising platform with payments based on results';
+$lang['site_main_cases_merchants_block_li_2'] = 'Ability to work with a great number of agents with a centralized payment for their services';
+$lang['site_main_cases_merchants_block_li_3'] = 'Effective technology for Agents identification';
+$lang['site_main_cases_merchants_block_restaurant'] = 'Restaurant';
+$lang['site_main_cases_merchants_block_restaurant_content'] = 'Would you like to attract more clients to your business? Register with Glex,  and get ready for new clients!';
+$lang['site_main_cases_merchants_block_shop'] = 'Retail outlet';
+$lang['site_main_cases_merchants_block_shop_content'] = 'You can never have too many customers! Register with Glex and Agents from all over the world will start recommending your business! ';
+$lang['site_main_cases_merchants_block_spa'] = 'Spa';
+$lang['site_main_cases_merchants_block_spa_content'] = 'Attracting new clients is almost a challenging task. Utilise the capabilities of a free advertising platform Glex and attract new clients! ';
+$lang['site_main_cases_merchants_block_park'] = 'Park';
+$lang['site_main_cases_merchants_block_park_content'] = 'Registering your amusement park with Glex will allow Agents from all over the world to recommend your business to the tourists travelling to your city bringing you even more customers!';
+$lang['site_main_cases_merchants_block_rent'] = 'Rentals';
+$lang['site_main_cases_merchants_block_rent_content'] = 'Make your rental more popular and profitable. Register with Glex and Agents from all over the world will start recommending your business! !';
 /* Конец Блока Заведений */
