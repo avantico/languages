@@ -5,15 +5,15 @@ $lang['site_about_page_desc'] = 'Glex GmbH — немецкая компания
 
 
 $lang['site_about_glex_unique_title'] = 'Glex - уникальный сервис';
-$lang['site_about_glex_unique_desc'] = 'В Glex свои усилия объединили профессионалы из области международного туризма и опытные специалисты по построению веб-сервисов и интернет-бизнесов. Совместно мы развиваем проект, идея которого является уникальной и очень нравится нам.';
+$lang['site_about_glex_unique_desc'] = 'Glex has combined minds of professonals from international tourism industy and experienced speclalists of builidng web services and internet business. Together we develop this project with the unique idea we love so much.';
 
 $lang['site_about_glex_geo_title'] = 'География Glex';
-$lang['site_about_glex_geo_desc'] = 'На сегодня полноценно мы работаем только в нескольких странах Европы. Но в ближайшие год-два мы намерены расширить свое поле деятельности до всех главных туристических направлений мира.';
+$lang['site_about_glex_geo_desc'] = 'For the time being, we already work in Europe but within the next one to two years we are going to expand to other major tourist industries all over the world.';
 
 $lang['site_about_glex_mission_title'] = 'Наша миссия';
-$lang['site_about_glex_mission_desc'] = 'Мы видим своей миссией построить эффективную и простую в использовании систему, которая бы предоставила дополнительный сервис для туристов, дала бы новых клиентов туристическим заведениям и позволила бы агентам больше зарабатывать на полезных рекомендациях, которые они предоставляют туристам.';
+$lang['site_about_glex_mission_desc'] = 'Our mission is to build an effective and easy to use system that will provide additional services for tourists. give new clients to tourist attractions and allow agnets earn more on useful recommendations to tourists.';
 
-$lang['site_about_links_how_it_works'] = 'Рассказ о специфике работы системы вы найдете в разделе';
+$lang['site_about_links_how_it_works'] = 'You can find out more about this system in section';
 $lang['site_about_links_blog'] = 'Неформальный рассказ о жизни и развитии Glex читайте в блоге проекта';
 $lang['site_about_links_subscribe'] = 'Становитесь нашим подписчиком <br/>в ';
 $lang['site_about_links_subscribe_or'] = 'или';
