@@ -25,3 +25,5 @@ $lang['site_contacts_contact_email_must_fill'] = 'Вы не указали e-mai
 
 $lang['site_contacts_contact_tel_title'] = 'Ваш телефон';
 $lang['site_contacts_contact_message_title'] = 'Текст сообщения';
+
+$lang['site_contacts_contact_message_send'] = 'Отправить';
