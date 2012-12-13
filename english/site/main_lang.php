@@ -66,5 +66,5 @@ $lang['site_main_cases_merchants_block_spa_content'] = 'Attracting new clients i
 $lang['site_main_cases_merchants_block_park'] = 'Park';
 $lang['site_main_cases_merchants_block_park_content'] = 'Registering your amusement park with Glex will allow Agents from all over the world to recommend your business to the tourists travelling to your city bringing you even more customers!';
 $lang['site_main_cases_merchants_block_rent'] = 'Rentals';
-$lang['site_main_cases_merchants_block_rent_content'] = 'Make your rental more popular and profitable. Register with Glex and Agents from all over the world will start recommending your business! !';
+$lang['site_main_cases_merchants_block_rent_content'] = 'Make your rental more popular and profitable! Just register with Glex, fill in the information about your business and get ready to welcome new customers!';
 /* Конец Блока Заведений */
