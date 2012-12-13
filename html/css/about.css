@@ -1,0 +1,153 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*-----\\-----*/
+
+
+.center .wrapper h1
+{
+    font-family: 'Helvetica-Roman';	
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.center .wrapper hr
+{
+	margin: 30px 0;
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	height: 1px;
+	background-color: #d8d8d5;
+}
+
+.center .wrapper .block-1,
+.center .wrapper .block-2,
+.center .wrapper .block-3
+{
+	font-size: 15px;
+	background-repeat: no-repeat;
+	line-height: 140%;
+}
+
+.center .wrapper .block-1
+{
+	padding: 0px 460px 0px 0px;
+	background-image:url(../img/about/monitor.png);
+	background-position: 540px 0px;
+	height: 300px;
+}
+
+
+.center .wrapper .block-2
+{
+	padding: 20px 0px 0px 480px;
+	background-image:url(../img/about/map.png);
+	background-position: px 0px;
+	height: 245px;
+}
+
+
+.center .wrapper .block-3
+{
+	padding: 0px 460px 0px 0px;
+	background-image:url(../img/about/glex-logo.png);
+	background-position: 540px 30px;
+	height: 220px;
+}
+
+.center .wrapper ul.links-bl
+{
+	list-style-type: none;
+}
+
+.center .wrapper ul.links-bl li
+{
+	position: relative;
+	float: left;
+	width: 247px;
+	font-size: 15px;
+	padding: 20px 50px 90px 33px;
+	line-height: 140%;
+}
+
+.center .wrapper ul.links-bl li a:link,
+.center .wrapper ul.links-bl li a:visited
+{
+	position: relative;
+	color: #007dc3;
+}
+
+.center .wrapper ul.links-bl li a:hover
+{
+	color: #f47321;
+}
+
+
+
+.center .wrapper ul.links-bl li.b-3
+{
+	padding-right: 0px;
+}
+
+.center .wrapper ul.links-bl li .icon
+{
+	position: absolute;
+}
+
+.center .wrapper ul.links-bl li.b-1 .icon
+{
+	top: 19px;
+	left: 0;
+	background:url(../img/about/icons.png) no-repeat 0 -1px;
+	width: 23px;
+	height: 23px;	
+}
+
+.center .wrapper ul.links-bl li.b-2 .icon
+{
+	top: 19px;
+	left: 0;
+	background:url(../img/about/icons.png) no-repeat 0 -29px;
+	width: 25px;
+	height: 17px;	
+}
+
+.center .wrapper ul.links-bl li.b-3 .icon
+{
+	top: 19px;
+	left: 0;
+	background:url(../img/about/icons.png) no-repeat 0 -50px;
+	width: 23px;
+	height: 19px;	
+}
+
+.center .wrapper ul.links-bl li .fb
+{
+	padding-left: 12px;
+}
+
+.center .wrapper ul.links-bl li .fb .fb-icon
+{
+	top: 0;
+	left: 0;
+	position: absolute;
+	background: url(../img/about/icons.png) no-repeat -2px -74px;	
+	width: 9px;
+	height: 19px;	
+}
+
+.center .wrapper ul.links-bl li .tw
+{
+	padding-left: 24px;
+}
+
+
+.center .wrapper ul.links-bl li .tw .tw-icon
+{
+	top: 0;
+	left: 0;
+	position: absolute;
+	background: url(../img/about/icons.png) no-repeat 0px -97px;	
+	width: 20px;
+	height: 16px;	
+}
