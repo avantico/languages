@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/*------\\ HEADER //------*/
+header .wrapper,
+header .apps {background: #F9FAF7 url("../img/bg-01.jpg") repeat 0 0 !important;}
+
+/*------\\ FOOTER //------*/
+
+/*------\\ BLOCKS //------*/
+
+/*-----\ REVIEWS \-----*/
+.reviews-sm-bl .scroll q span {*display: inline;zoom: 1;}
