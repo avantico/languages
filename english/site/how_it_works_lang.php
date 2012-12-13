@@ -26,4 +26,4 @@ $lang['site_how_action_step_6_description'] = 'Ozolin Srl transfers received rew
 
 $lang['site_how_after_sheme_intro_more'] = 'If you would like to know more, please, refer to the specialised sections of the site:';
 
-$lang['site_how_after_sheme_intro_register'] = 'Если все понятно, то регистрируйтесь сейчас и начните зарабатывать с Glex';
+$lang['site_how_after_sheme_intro_register'] = 'If you like this idea, register now and start earning more with Glex!';
