@@ -1,0 +1,325 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*-----\\-----*/
+
+
+
+.center .wrapper .contact-info-bl
+{
+	margin: 25px 0px;
+	position: relative;	
+	height: 180px;
+}
+
+.center .wrapper .contact-info-bl a:link,
+.center .wrapper .contact-info-bl a:visited
+{
+	color: #2386c6;
+}
+
+.center .wrapper .contact-info-bl .skype a:link,
+.center .wrapper .contact-info-bl .skype a:visited,
+.center .wrapper .contact-info-bl .post a:link,
+.center .wrapper .contact-info-bl .post a:visited
+{
+	text-decoration: none;
+	color: #00aaf0;
+	border-bottom: 1px dotted #00aaf0;
+}
+
+.center .wrapper .contact-info-bl .skype a:hover,
+.center .wrapper .contact-info-bl .post a:hover
+{
+	border-bottom: none;
+}
+
+
+.center .wrapper .contact-info-bl h1
+{
+	font-size: 13px;
+	font-weight: normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	padding: 0px 0px 10px 0px;
+	margin: 0;
+	color: #999999;	
+	line-height: normal;
+}
+
+.center .wrapper .contact-info-bl .email,
+.center .wrapper .contact-info-bl .skype,
+.center .wrapper .contact-info-bl .post,
+.center .wrapper .contact-info-bl .phones
+{
+	position: absolute;
+	padding: 0px 0px 0px 0px;
+	font-size: 14px;
+	line-height: 150%;
+}
+
+
+.center .wrapper .contact-info-bl .email,
+.center .wrapper .contact-info-bl .skype,
+.center .wrapper .contact-info-bl .post,
+.center .wrapper .contact-info-bl .phones
+{
+	border: 1px solid transparent;
+	padding: 8px 10px 8px 35px;	
+}
+
+.center .wrapper .contact-info-bl .email:hover,
+.center .wrapper .contact-info-bl .skype:hover,
+.center .wrapper .contact-info-bl .post:hover,
+.center .wrapper .contact-info-bl .phones:hover
+{
+	border: 1px solid #d0d0d0;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    background: white;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fefefe), to(#f4f4f4));
+    background: -webkit-linear-gradient(#fefefe, #f4f4f4);
+    background: -moz-linear-gradient(#fefefe, #f4f4f4);
+    background: -ms-linear-gradient(#fefefe, #f4f4f4);
+    background: -o-linear-gradient(#fefefe, #f4f4f4);
+    background: linear-gradient(#fefefe, #f4f4f4); 
+    -pie-background: linear-gradient(#fefefe, #f4f4f4); 
+    -moz-box-shadow: 1px 2px 3px #dbdbdb;
+    -webkit-box-shadow: 1px 2px 3px #dbdbdb;
+    box-shadow: 1px 2px 3px #dbdbdb;
+}
+
+.center .wrapper .contact-info-bl .email,
+.center .wrapper .contact-info-bl .skype
+{
+	width: 130px;
+}
+
+.center .wrapper .contact-info-bl .email
+{
+	top: 0;
+	left: 0;
+}
+
+.center .wrapper .contact-info-bl .email .icon
+{
+	position: absolute;
+	top: 7px;
+	left: 10px;
+	background: url('../img/contacts/icons.png') no-repeat -1px -2px;
+	width: 18px;
+	height: 19px;	
+}
+
+
+
+.center .wrapper .contact-info-bl .skype
+{
+	top: 100px;
+	left: 0;
+}
+
+
+.center .wrapper .contact-info-bl .skype .icon
+{
+	position: absolute;
+	top: 8px;
+	left: 12px;
+	background: url('../img/contacts/icons.png') no-repeat -2px -24px;
+	width: 17px;
+	height: 18px;
+}
+
+
+.center .wrapper .contact-info-bl .phones
+{
+	width: 180px;
+	top: 0;
+	left: 225px;
+}
+
+
+.center .wrapper .contact-info-bl .phones .icon
+{
+	position: absolute;
+	top: 8px;
+	left: 15px;
+	background: url('../img/contacts/icons.png') no-repeat -2px -46px;
+	width: 17px;
+	height: 20px;
+}
+
+.center .wrapper .contact-info-bl .post
+{
+	width: 155px;
+	top: 0;
+	left: 480px;
+}
+
+
+.center .wrapper .contact-info-bl .post .icon
+{
+	position: absolute;
+	top: 9px;
+	left: 9px;
+	background: url('../img/contacts/icons.png') no-repeat -1px -71px;
+	width: 17px;
+	height: 15px;
+}
+
+.center .wrapper .contact-info-bl .post a.map:link,
+.center .wrapper .contact-info-bl .post a.map:visited
+{
+	position: relative !important;
+	margin-right: 15px !important;	
+}
+
+.center .wrapper .contact-info-bl .post a.map:link span,
+.center .wrapper .contact-info-bl .post a.map:visited span
+{
+	position: absolute;
+	right: -22px;
+	top: 2px;
+	background: url('../img/contacts/icons.png') no-repeat -3px -92px;
+	width: 14px;
+	height: 14px;
+}
+
+
+.center .wrapper .feedback-bl
+{
+	height: 380px;
+	padding: 0px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	position: relative;
+	text-align: left;
+}
+
+
+.center .wrapper .feedback-bl p
+{
+	font-size: 15px;
+}
+
+.center .wrapper .feedback-bl p a:link,
+.center .wrapper .feedback-bl p a:visited
+{
+	color: #007dc3;
+}
+
+
+
+.center .wrapper .feedback-bl .feedback-form .row
+{
+	position: relative;
+	padding: 0px 0px 7px 0px;	
+	height: 65px;
+	width: 285px;
+}
+
+.center .wrapper .feedback-bl .feedback-form .row .name
+{
+	left: 0px;
+	top: 10px;
+	position:absolute;
+	width: 150px;
+	font-size: 14px;
+	text-align: left;
+	color: #444444;
+}
+
+.center .wrapper .feedback-bl .feedback-form .row .field
+{
+	top: 32px;
+	left: 0px;
+	position:absolute;
+	padding-left: 0px;
+	font-weight: bold;
+}
+
+
+
+
+/* override default customized select style */
+.center .wrapper .feedback-bl .feedback-form .row .select .switch
+{
+	font-size: 13px;
+}
+
+
+.center .wrapper .feedback-bl .feedback-form .row .select .dd a
+{
+	font-size: 13px;
+}
+
+
+
+.center .wrapper .feedback-bl .feedback-form .row .field #place
+{
+	margin-left: 25px;
+}
+
+
+.center .wrapper .feedback-bl .feedback-form .row .field input[type=text]
+{
+	border: 1px solid #e3e3e3;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -khtml-border-radius: 2px;
+	padding: 8px 14px;
+	width: 271px;
+	font-weight: bold;
+	
+}
+
+.custom-select .sel-sm-cont .switch > span span 
+{
+	width: 150px !important;
+}
+
+.custom-select [class^="sel-"] .switch > span 
+{
+	padding: 0 144px 0 9px;
+}
+
+
+.center .wrapper .feedback-bl .feedback-form .row-textarea
+{
+	font-size: 14px;
+	position: absolute;
+	top: 40px;
+	left: 355px;
+}
+
+.center .wrapper .feedback-bl .feedback-form .row-textarea textarea
+{
+	width: 575px;
+	height: 250px;
+	border: 1px solid #e3e3e3;
+}
+
+.center .wrapper .feedback-bl .feedback-form .row-textarea p
+{
+	padding: 0px 0px 5px 0px;
+}
+
+
+.center .wrapper .feedback-bl .feedback-form .send-button
+{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+.center .wrapper .feedback-bl .feedback-form .req
+{
+	position:absolute;
+	color: red;
+	top: 2px;
+	left: -10px;
+	font-size: 16px;
+}
