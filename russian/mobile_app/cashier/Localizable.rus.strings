@@ -46,7 +46,7 @@
 "CREDIT_INFO_COMMENT" = "Комментарий";
 "CREDIT_INFO_COMMENT_OPTIONAL" = "Комментарий (необязательно)";
 
-"CREDIT_SAVED"  = "Начисление сохранено";
+"CREDIT_SAVED" = "Начисление сохранено";
 
 "CREDIT_CANCEL" = "Отменить";
 "CREDIT_RESTORE" = "Восстановить";
@@ -66,7 +66,7 @@
 
 // errors
 "ERROR" = "Ошибка";
-"ERROR_EMPTY_LOGIN_PASSWORD" =  "Необходимо ввести логин и пароль.";
+"ERROR_EMPTY_LOGIN_PASSWORD" = "Необходимо ввести логин и пароль.";
 "ERROR_WRONG_LOGIN_PASSWORD" = "Неправильный логин или пароль.";
 "ERROR_SESSION_EXPIRED" = "Невозможно авторизоваться на сервере. Обратитесь к администратору.";
 "ERROR_EMPTY_QRCODE" = "Необходимо ввести номер QR-кошелька агента.";
