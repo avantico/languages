@@ -14,7 +14,7 @@
 "ACTIVITY_VIEW_TEXT" = "Loading...";
 
 // screen titles locals
-"TITLE_CREDITS" = "Начисления";
+"TITLE_CREDITS" = "Comissions";
 "TITLE_QRCODE" = "Create";
 "TITLE_SETTINGS" = "Profile";
 
@@ -66,7 +66,7 @@
 
 // errors
 "ERROR" = "Ошибка";
-"ERROR_EMPTY_LOGIN_PASSWORD" =  "Enter yout login and password.";
+"ERROR_EMPTY_LOGIN_PASSWORD" =  "Enter your login and password.";
 "ERROR_WRONG_LOGIN_PASSWORD" = "Invalid login or password.";
 "ERROR_SESSION_EXPIRED" = "Sign in failed. Please contact administrator.";
 "ERROR_EMPTY_QRCODE" = "Enter the QR-wallet number.";
