@@ -1,27 +1,27 @@
 <?
 
-$lang['site_contacts_page_title'] = 'Контакты';
+$lang['site_contacts_page_title'] = 'Contacts';
 
-$lang['site_contacts_tel_block'] = 'Телефоны';
+$lang['site_contacts_tel_block'] = 'Phone numbers';
 
-$lang['site_contacts_tel_bg'] = 'Болгария';
-$lang['site_contacts_tel_ru'] = 'Россия';
+$lang['site_contacts_tel_bg'] = 'Bulgaria';
+$lang['site_contacts_tel_ru'] = 'Russia';
 
-$lang['site_contacts_post_block'] = 'Почтовый адрес';
-$lang['site_contacts_post_look_map'] = 'Смотреть на карте';
+$lang['site_contacts_post_block'] = 'Post code';
+$lang['site_contacts_post_look_map'] = 'View map';
 
-$lang['site_contacts_contact_form_into'] = 'Также вы можете задать вопрос в этой форме:';
+$lang['site_contacts_contact_form_into'] = 'You may also ask a question in this form:';
 
-$lang['site_contacts_contact_subject_select'] = 'Выберите тему';
-$lang['site_contacts_contact_subject_main'] = 'Общий вопрос';
-$lang['site_contacts_contact_subject_money'] = 'Финансовый вопрос';
-$lang['site_contacts_contact_subject_techno'] = 'Технический вопрос';
+$lang['site_contacts_contact_subject_select'] = 'Select a topic';
+$lang['site_contacts_contact_subject_main'] = 'Common question';
+$lang['site_contacts_contact_subject_money'] = 'Financial question';
+$lang['site_contacts_contact_subject_techno'] = 'Technical question';
 
-$lang['site_contacts_contact_name_title'] = 'Ваше имя';
-$lang['site_contacts_contact_name_must_fill'] = 'Вы не указали имя';
+$lang['site_contacts_contact_name_title'] = 'Your name';
+$lang['site_contacts_contact_name_must_fill'] = 'You have not specified the name';
 
-$lang['site_contacts_contact_email_title'] = 'Ваш e-mail';
-$lang['site_contacts_contact_email_must_fill'] = 'Вы не указали e-mail';
+$lang['site_contacts_contact_email_title'] = 'Your e-mail';
+$lang['site_contacts_contact_email_must_fill'] = 'You have not specified your e-mail';
 
-$lang['site_contacts_contact_tel_title'] = 'Ваш телефон';
-$lang['site_contacts_contact_message_title'] = 'Текст сообщения';
+$lang['site_contacts_contact_tel_title'] = 'Your contact phone number';
+$lang['site_contacts_contact_message_title'] = 'Text of the message';
