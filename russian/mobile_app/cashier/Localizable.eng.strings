@@ -14,7 +14,7 @@
 "ACTIVITY_VIEW_TEXT" = "Loading...";
 
 // screen titles locals
-"TITLE_CREDITS" = "Comissions";
+"TITLE_CREDITS" = "Commissions";
 "TITLE_QRCODE" = "Create";
 "TITLE_SETTINGS" = "Profile";
 
@@ -39,14 +39,14 @@
 // credit info locals
 "CREDIT_INFO_TITLE" = "Info";
 
-"CREDIT_INFO_CREDIT_ID" = "Comission ID";
+"CREDIT_INFO_CREDIT_ID" = "Commission ID";
 "CREDIT_INFO_AGENT_WALLET_ID" = "QR-wallet";
 "CREDIT_INFO_DATE" = "Date";
-"CREDIT_INFO_SUM" = "Sum";
+"CREDIT_INFO_SUM" = "Amount";
 "CREDIT_INFO_COMMENT" = "Comment";
 "CREDIT_INFO_COMMENT_OPTIONAL" = "Comment (optional)";
 
-"CREDIT_SAVED"  = "Comission saved";
+"CREDIT_SAVED"  = "Commission saved";
 
 "CREDIT_CANCEL" = "Cancel";
 "CREDIT_RESTORE" = "Restore";
@@ -58,11 +58,11 @@
 "SETTINGS_CASHIER_ID" = "Cashier ID";
 "SETTINGS_CASHIER_NAME" = "Cashier name";
 "SETTINGS_CURRENCY" = "Currency";
-"SETTINGS_CREDIT_TYPE" = "Comission type";
+"SETTINGS_CREDIT_TYPE" = "Commission type";
 "SETTINGS_MERCHANT_NAME" = "Administrator";
 
 // comission
-"COMISSION_SCREEN_TITLE" = "comission";
+"COMISSION_SCREEN_TITLE" = "commission";
 
 // errors
 "ERROR" = "Ошибка";
@@ -71,7 +71,7 @@
 "ERROR_SESSION_EXPIRED" = "Sign in failed. Please contact administrator.";
 "ERROR_EMPTY_QRCODE" = "Enter the QR-wallet number.";
 "ERROR_WRONG_QRCODE" = "Invalid QR-wallet number.";
-"ERROR_NO_CREDITS" = "You have no comissions yet.";
+"ERROR_NO_CREDITS" = "You have no commissions yet.";
  
 // scaner
 "SCANER_LABEL_TEXT" = "Point the camera at the QR-code";
