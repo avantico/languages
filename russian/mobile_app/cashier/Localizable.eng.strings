@@ -52,7 +52,7 @@
 "CREDIT_RESTORE" = "Restore";
 
 // settings locals
-"SETTINGS_LOGOUT_BTN_TITLE" = "Sign out";
+"SETTINGS_LOGOUT_BTN_TITLE" = "Log out";
 "SETTINGS_INFO_TEXT" = "Only administrator can modify these settings.";
 
 "SETTINGS_CASHIER_ID" = "Cashier ID";
