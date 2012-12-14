@@ -5,7 +5,7 @@ $lang['site_about_page_desc'] = 'Ozolin Srl is an Italian company.';
 
 
 $lang['site_about_glex_unique_title'] = 'Glex is a unique service';
-$lang['site_about_glex_unique_desc'] = 'Glex has combined minds of professonals from international tourism industy and experienced speclalists of builidng web services and internet business. Together we develop this project with the unique idea we love so much.';
+$lang['site_about_glex_unique_desc'] = 'Glex has combined minds of professionals from international tourism industy and experienced specialists of building web services and internet business. Together we develop this project with the unique idea we love so much.';
 
 $lang['site_about_glex_geo_title'] = 'Geograhy of Glex';
 $lang['site_about_glex_geo_desc'] = 'For the time being, we already work in Europe but within the next one to two years we are going to expand to other major tourist industries all over the world.';
