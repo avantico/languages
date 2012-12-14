@@ -8,7 +8,7 @@ $lang['site_merchants_how_to_earn_money_desc'] = 'The scheme of Glex work proces
 
 
 $lang['site_merchants_how_to_earn_money_step_1'] = 'Register at Glex.com';
-$lang['site_merchants_how_to_earn_money_step_2'] = 'Add a desciption to your business';
+$lang['site_merchants_how_to_earn_money_step_2'] = 'Add a description to your business';
 $lang['site_merchants_how_to_earn_money_step_3'] = 'Identify special offers or discount to the tourists and commission for the Agents';
 $lang['site_merchants_how_to_earn_money_step_4'] = 'Welcome new customers referred to you by Glex Agents';
 $lang['site_merchants_how_to_earn_money_step_5'] = 'Increase your sales and pay commission to the Agents ';
