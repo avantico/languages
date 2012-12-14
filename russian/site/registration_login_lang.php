@@ -39,7 +39,7 @@ $lang['site_register_user_password_placeholder']= 'Введите пароль';
 $lang['site_register_user_tmp_name'] 			= 'Компания';
 $lang['site_register_user_tmp_name_placeholder']= 'Ваше имя или название компании';
 $lang['site_register_jurisdiction_check']		= 'Выберите...';
-$lang['site_register_jurisdiction_id'] 			= 'Юрисдикция';
+$lang['site_register_jurisdiction_id'] 			= 'Ваша страна';
 
 $lang['site_register_user_main_role'] 			= 'Основная роль';
 $lang['site_register_user_role_agent'] 			= 'Агент';
@@ -57,6 +57,9 @@ $lang['site_register_errors_max_length']		= 'Поле "%s" должно быть
 $lang['site_register_errors_is_unique'] 		= 'Такой %s уже существует!';
 $lang['site_register_errors_main'] 				= 'Возникли ошибки при заполнении формы!';
 $lang['site_register_errors_agreement'] 		= 'Подтвердите согласие с условиями';
+
+$lang['site_confirm_header']					= 'Вы успешно зарегистрировались!';
+$lang['site_confirm_text']						= 'Для подтверждения регистрации перейдите, пожалуйста по ссылке, которую мы отправили Вам письмом на указанный при регистрации e-mail.';
 
 $lang['site_confirm_email_header']				= 'Подтверждение регистрации на Glex.com';
 $lang['site_confirm_email_text']				= 'Для подтверждения регистрации перейдите, пожалуйста по ссылке: ';
