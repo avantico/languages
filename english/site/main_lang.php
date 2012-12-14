@@ -7,7 +7,7 @@ $lang['site_main_page_title_description'] = 'More useful recommendations for tou
 $lang['site_main_thesis_glex_title'] = 'Glex system is:';
 $lang['site_main_thesis_glex_p1'] = 'Glex allows businesses in tourist industry to attract new clients with payments based on results.';
 $lang['site_main_thesis_glex_p2'] = 'Glex allows agents to gain access to the network of businesses that are ready to pay commission for referred clients.';
-$lang['site_main_thesis_glex_more_link'] = 'More about the system and how it wotks';
+$lang['site_main_thesis_glex_more_link'] = 'More about the system and how it works';
 
 /* Вторая колонка "Преимущества Glex" */
 $lang['site_main_thesis_advantages_title'] = 'Advantages of Glex:';

@@ -31,9 +31,9 @@
 
 "CREDIT_INTERVAL_TODAY" = "Сегодня";
 "CREDIT_INTERVAL_YESTERDAY" = "Вчера";
-"CREDIT_INTERVAL_WEEK" = "Week";
-"CREDIT_INTERVAL_MONTH" = "Month";
-"CREDIT_INTERVAL_EARLIER" = "Earlier";
+"CREDIT_INTERVAL_WEEK" = "За неделю";
+"CREDIT_INTERVAL_MONTH" = "За месяц";
+"CREDIT_INTERVAL_EARLIER" = "Ранее";
 
 
 // credit info locals
@@ -70,7 +70,7 @@
 "ERROR_WRONG_LOGIN_PASSWORD" = "Неправильный логин или пароль.";
 "ERROR_SESSION_EXPIRED" = "Невозможно авторизоваться на сервере. Обратитесь к администратору.";
 "ERROR_EMPTY_QRCODE" = "Необходимо ввести номер кошелька агента.";
-"ERROR_NO_CREDITS" = "У Вас пока что нет начислений.";
+"ERROR_NO_CREDITS" = "У Вас пока нет начислений.";
 
 // scaner
 "SCANER_LABEL_TEXT" = "Наведите камеру на QR-код";
