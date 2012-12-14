@@ -10,7 +10,7 @@
 "AUTH_PLACEHOLDER_ID" = "Логин";
 "AUTH_PLACEHOLDER_PASSWORD" = "Пароль";
 "AUTH_BUTTON_TITLE" = "Войти";
-"QR_AUTH_BUTTON_TITLE" = "Авторизация через QR код";
+"QR_AUTH_BUTTON_TITLE" = "Авторизация через QR-код";
 "ACTIVITY_VIEW_TEXT" = "Загрузка...";
 
 // screen titles locals
@@ -40,7 +40,7 @@
 "CREDIT_INFO_TITLE" = "Информация";
 
 "CREDIT_INFO_CREDIT_ID" = "ID начисления";
-"CREDIT_INFO_AGENT_WALLET_ID" = "QR кошелек";
+"CREDIT_INFO_AGENT_WALLET_ID" = "QR-кошелек";
 "CREDIT_INFO_DATE" = "Дата";
 "CREDIT_INFO_SUM" = "Сумма";
 "CREDIT_INFO_COMMENT" = "Комментарий";
@@ -69,7 +69,8 @@
 "ERROR_EMPTY_LOGIN_PASSWORD" =  "Необходимо ввести логин и пароль.";
 "ERROR_WRONG_LOGIN_PASSWORD" = "Неправильный логин или пароль.";
 "ERROR_SESSION_EXPIRED" = "Невозможно авторизоваться на сервере. Обратитесь к администратору.";
-"ERROR_EMPTY_QRCODE" = "Необходимо ввести номер кошелька агента.";
+"ERROR_EMPTY_QRCODE" = "Необходимо ввести номер QR-кошелька агента.";
+"ERROR_WRONG_QRCODE" = "Неправильный номер QR-кошелька агента.";
 "ERROR_NO_CREDITS" = "У Вас пока что нет начислений.";
 
 // scaner
