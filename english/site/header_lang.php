@@ -3,7 +3,7 @@
 
 
 /* меню */
-$lang['site_header_menu_how_it_works']				= "How does it work”";
+$lang['site_header_menu_how_it_works']				= "How does it work";
 $lang['site_header_menu_for_agents']			= "For Agents";
 $lang['site_header_menu_for_merchants']		= "For Businesses";
 $lang['site_header_menu_faq']		= "FAQ";
