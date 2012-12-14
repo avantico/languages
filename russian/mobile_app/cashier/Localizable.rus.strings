@@ -58,7 +58,7 @@
 "SETTINGS_CASHIER_ID" = "ID кассира";
 "SETTINGS_CASHIER_NAME" = "Имя кассира";
 "SETTINGS_CURRENCY" = "Валюта";
-"SETTINGS_CREDIT_TYPE" = "Тип комиссии";
+"SETTINGS_CREDIT_TYPE" = "Тип начисления";
 "SETTINGS_MERCHANT_NAME" = "Администратор";
 
 // comission

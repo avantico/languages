@@ -1,81 +1,3 @@
-<<<<<<< HEAD:russian/mobile_app/cashier/Localizable.strings
-/* 
-  Localizable.strings
-  Glex
-
-  Created by timfreeman on 23.10.12.
-  Copyright (c) 2012 timfreeman. All rights reserved.
-*/
-
-// main menu locals
-"AUTH_PLACEHOLDER_ID" = "Логин";
-"AUTH_PLACEHOLDER_PASSWORD" = "Пароль";
-"AUTH_BUTTON_TITLE" = "Войти";
-"QR_AUTH_BUTTON_TITLE" = "Авторизация через QR код";
-"ACTIVITY_VIEW_TEXT" = "Загрузка...";
-
-// screen titles locals
-"TITLE_CREDITS" = "Начисления";
-"TITLE_QRCODE" = "Создать";
-"TITLE_SETTINGS" = "Профиль";
-
-// qrcode
-"QRCODE_INPUT" = "Номер QR-кошелька";
-
-// credits history locals
-"SEGMENTED_CONTROL_BUTTON_ALL" = "Все";
-"SEGMENTED_CONTROL_BUTTON_DECLINED" = "Отмененные";
-
-"CREDIT_STATUS_ACTIVE" = "Активное";
-"CREDIT_STATUS_IN_INVOICE" = "Принято к оплате";
-"CREDIT_STATUS_ANNULED" = "Отменено";
-
-"CREDIT_INTERVAL_TODAY" = "Сегодня";
-"CREDIT_INTERVAL_YESTERDAY" = "Вчера";
-"CREDIT_INTERVAL_WEEK" = "За неделю";
-"CREDIT_INTERVAL_MONTH" = "За месяц";
-"CREDIT_INTERVAL_EARLIER" = "Ранее";
-
-
-// credit info locals
-"CREDIT_INFO_TITLE" = "Информация";
-
-"CREDIT_INFO_CREDIT_ID" = "ID начисления";
-"CREDIT_INFO_AGENT_WALLET_ID" = "QR кошелек";
-"CREDIT_INFO_DATE" = "Дата";
-"CREDIT_INFO_SUM" = "Сумма";
-"CREDIT_INFO_COMMENT" = "Комментарий";
-"CREDIT_INFO_COMMENT_OPTIONAL" = "Комментарий (необязательно)";
-
-"CREDIT_SAVED"  = "Начисление сохранено";
-
-"CREDIT_CANCEL" = "Отменить";
-"CREDIT_RESTORE" = "Восстановить";
-
-// settings locals
-"SETTINGS_LOGOUT_BTN_TITLE" = "Выход";
-"SETTINGS_INFO_TEXT" = "Эти настройки может изменить только Ваш администратор.";
-
-"SETTINGS_CASHIER_ID" = "ID кассира";
-"SETTINGS_CASHIER_NAME" = "Имя кассира";
-"SETTINGS_CURRENCY" = "Валюта";
-"SETTINGS_CREDIT_TYPE" = "Тип комиссии";
-"SETTINGS_MERCHANT_NAME" = "Администратор";
-
-// comission
-"COMISSION_SCREEN_TITLE" = "комиссия";
-
-// errors
-"ERROR" = "Ошибка";
-"ERROR_EMPTY_LOGIN_PASSWORD" =  "Необходимо ввести логин и пароль.";
-"ERROR_WRONG_LOGIN_PASSWORD" = "Неправильный логин или пароль.";
-"ERROR_SESSION_EXPIRED" = "Невозможно авторизоваться на сервере. Обратитесь к администратору.";
-"ERROR_EMPTY_QRCODE" = "Необходимо ввести номер кошелька агента.";
-"ERROR_NO_CREDITS" = "У Вас пока нет начислений.";
-
-// scaner
-"SCANER_LABEL_TEXT" = "Наведите камеру на QR-код";
-=======
 /* 
   Localizable.strings
   Glex
@@ -87,69 +9,68 @@
 // main menu locals
 "AUTH_PLACEHOLDER_ID" = "Login";
 "AUTH_PLACEHOLDER_PASSWORD" = "Password";
-"AUTH_BUTTON_TITLE" = "Войти";
-"QR_AUTH_BUTTON_TITLE" = "Авторизация через QR код";
-"ACTIVITY_VIEW_TEXT" = "Загрузка...";
+"AUTH_BUTTON_TITLE" = "Sign in";
+"QR_AUTH_BUTTON_TITLE" = "Sign in using QR-code";
+"ACTIVITY_VIEW_TEXT" = "Loading...";
 
 // screen titles locals
 "TITLE_CREDITS" = "Начисления";
-"TITLE_QRCODE" = "Создать";
-"TITLE_SETTINGS" = "Профиль";
+"TITLE_QRCODE" = "Create";
+"TITLE_SETTINGS" = "Profile";
 
 // qrcode
-"QRCODE_INPUT" = "Номер QR-кошелька";
+"QRCODE_INPUT" = "QR-wallet number";
 
 // credits history locals
-"SEGMENTED_CONTROL_BUTTON_ALL" = "Все";
-"SEGMENTED_CONTROL_BUTTON_DECLINED" = "Отмененные";
+"SEGMENTED_CONTROL_BUTTON_ALL" = "All";
+"SEGMENTED_CONTROL_BUTTON_DECLINED" = "Canceled";
 
-"CREDIT_STATUS_ACTIVE" = "Активное";
-"CREDIT_STATUS_IN_INVOICE" = "Принято к оплате";
-"CREDIT_STATUS_ANNULED" = "Отменено";
+"CREDIT_STATUS_ACTIVE" = "Active";
+"CREDIT_STATUS_IN_INVOICE" = "In invoice";
+"CREDIT_STATUS_ANNULED" = "Canceled";
 
-"CREDIT_INTERVAL_TODAY" = "Сегодня";
-"CREDIT_INTERVAL_YESTERDAY" = "Вчера";
+"CREDIT_INTERVAL_TODAY" = "Today";
+"CREDIT_INTERVAL_YESTERDAY" = "Yesterday";
 "CREDIT_INTERVAL_WEEK" = "Week";
 "CREDIT_INTERVAL_MONTH" = "Month";
 "CREDIT_INTERVAL_EARLIER" = "Earlier";
 
 
 // credit info locals
-"CREDIT_INFO_TITLE" = "Информация";
+"CREDIT_INFO_TITLE" = "Info";
 
-"CREDIT_INFO_CREDIT_ID" = "ID начисления";
-"CREDIT_INFO_AGENT_WALLET_ID" = "QR кошелек";
-"CREDIT_INFO_DATE" = "Дата";
-"CREDIT_INFO_SUM" = "Сумма";
-"CREDIT_INFO_COMMENT" = "Комментарий";
-"CREDIT_INFO_COMMENT_OPTIONAL" = "Комментарий (необязательно)";
+"CREDIT_INFO_CREDIT_ID" = "Comission ID";
+"CREDIT_INFO_AGENT_WALLET_ID" = "QR-wallet";
+"CREDIT_INFO_DATE" = "Date";
+"CREDIT_INFO_SUM" = "Sum";
+"CREDIT_INFO_COMMENT" = "Comment";
+"CREDIT_INFO_COMMENT_OPTIONAL" = "Comment (optional)";
 
-"CREDIT_SAVED"  = "Начисление сохранено";
+"CREDIT_SAVED"  = "Comission saved";
 
-"CREDIT_CANCEL" = "Отменить";
-"CREDIT_RESTORE" = "Восстановить";
+"CREDIT_CANCEL" = "Cancel";
+"CREDIT_RESTORE" = "Restore";
 
 // settings locals
-"SETTINGS_LOGOUT_BTN_TITLE" = "Выход";
-"SETTINGS_INFO_TEXT" = "Эти настройки может изменить только Ваш администратор.";
+"SETTINGS_LOGOUT_BTN_TITLE" = "Sign out";
+"SETTINGS_INFO_TEXT" = "Only administrator can modify these settings.";
 
-"SETTINGS_CASHIER_ID" = "ID кассира";
-"SETTINGS_CASHIER_NAME" = "Имя кассира";
-"SETTINGS_CURRENCY" = "Валюта";
-"SETTINGS_CREDIT_TYPE" = "Тип комиссии";
-"SETTINGS_MERCHANT_NAME" = "Администратор";
+"SETTINGS_CASHIER_ID" = "Cashier ID";
+"SETTINGS_CASHIER_NAME" = "Cashier name";
+"SETTINGS_CURRENCY" = "Currency";
+"SETTINGS_CREDIT_TYPE" = "Comission type";
+"SETTINGS_MERCHANT_NAME" = "Administrator";
 
 // comission
-"COMISSION_SCREEN_TITLE" = "комиссия";
+"COMISSION_SCREEN_TITLE" = "comission";
 
 // errors
 "ERROR" = "Ошибка";
-"ERROR_EMPTY_LOGIN_PASSWORD" =  "Необходимо ввести логин и пароль.";
-"ERROR_WRONG_LOGIN_PASSWORD" = "Неправильный логин или пароль.";
-"ERROR_SESSION_EXPIRED" = "Невозможно авторизоваться на сервере. Обратитесь к администратору.";
-"ERROR_EMPTY_QRCODE" = "Необходимо ввести номер кошелька агента.";
-"ERROR_NO_CREDITS" = "У Вас пока что нет начислений.";
+"ERROR_EMPTY_LOGIN_PASSWORD" =  "Enter yout login and password.";
+"ERROR_WRONG_LOGIN_PASSWORD" = "Invalid login or password.";
+"ERROR_SESSION_EXPIRED" = "Sign in failed. Please contact administrator.";
+"ERROR_EMPTY_QRCODE" = "Enter the QR-wallet number.";
+"ERROR_NO_CREDITS" = "You have no comissions yet.";
 
 // scaner
-"SCANER_LABEL_TEXT" = "Наведите камеру на QR-код";
->>>>>>> Mobile app:russian/mobile_app/cashier/Localizable.eng.strings
+"SCANER_LABEL_TEXT" = "Point the camera at the QR-code";
