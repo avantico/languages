@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Glex
+
+  Created by timfreeman on 23.10.12.
+  Copyright (c) 2012 timfreeman. All rights reserved.
+*/
+
+// main menu locals
+"AUTH_PLACEHOLDER_ID" = "Логин";
+"AUTH_PLACEHOLDER_PASSWORD" = "Парола";
+"AUTH_BUTTON_TITLE" = "Вход";
+"QR_AUTH_BUTTON_TITLE" = "Идентификация в системама със QR-кода";
+"ACTIVITY_VIEW_TEXT" = "Зарежда се...";
+
+// screen titles locals
+"TITLE_CREDITS" = "Комисионни";
+"TITLE_QRCODE" = "Създаване";
+"TITLE_SETTINGS" = "Профил";
+
+// qrcode
+"QRCODE_INPUT" = "Номерът на QR-сметката";
+
+// credits history locals
+"SEGMENTED_CONTROL_BUTTON_ALL" = "Всичко";
+"SEGMENTED_CONTROL_BUTTON_DECLINED" = "Отменени";
+
+"CREDIT_STATUS_ACTIVE" = "Активни";
+"CREDIT_STATUS_IN_INVOICE" = "Включено е в фактурата";
+"CREDIT_STATUS_ANNULED" = "Отменити";
+
+"CREDIT_INTERVAL_TODAY" = "Днес";
+"CREDIT_INTERVAL_YESTERDAY" = "Вчера";
+"CREDIT_INTERVAL_WEEK" = "За седмица";
+"CREDIT_INTERVAL_MONTH" = "Да месец";
+"CREDIT_INTERVAL_EARLIER" = "До сега";
+
+
+// credit info locals
+"CREDIT_INFO_TITLE" = "Информация";
+
+"CREDIT_INFO_CREDIT_ID" = "ID на комисионната";
+"CREDIT_INFO_AGENT_WALLET_ID" = "QR-сметка";
+"CREDIT_INFO_DATE" = "Дата";
+"CREDIT_INFO_SUM" = "Сума";
+"CREDIT_INFO_COMMENT" = "Коментар";
+"CREDIT_INFO_COMMENT_OPTIONAL" = "Коментар (не е задължително)";
+
+"CREDIT_SAVED"  = "Комисионната е съхранена";
+
+"CREDIT_CANCEL" = "Анулиране";
+"CREDIT_RESTORE" = "Възстановяване";
+
+// settings locals
+"SETTINGS_LOGOUT_BTN_TITLE" = "Изход";
+"SETTINGS_INFO_TEXT" = "Само администраторът може да измени тези настройки.";
+
+"SETTINGS_CASHIER_ID" = "ID на касиера";
+"SETTINGS_CASHIER_NAME" = "Име на касиера";
+"SETTINGS_CURRENCY" = "Валута";
+"SETTINGS_CREDIT_TYPE" = "Вид на комисионната";
+"SETTINGS_MERCHANT_NAME" = "Администратор";
+
+// comission
+"COMISSION_SCREEN_TITLE" = "комисионната";
+
+// errors
+"ERROR" = "Ошибка";
+"ERROR_EMPTY_LOGIN_PASSWORD" =  "Въведете вашето логин и парола.";
+"ERROR_WRONG_LOGIN_PASSWORD" = "Грешно логин или парола.";
+"ERROR_SESSION_EXPIRED" = "Включването се разпадна. Моля, свържете се с администратора.";
+"ERROR_EMPTY_QRCODE" = "Въведете номера на QR-сметката на агента.";
+"ERROR_WRONG_QRCODE" = "Грешно номера на QR-сметката на агента.";
+"ERROR_NO_CREDITS" = "Вие нямате никакви комисионни.";
+ 
+// scaner
+"SCANER_LABEL_TEXT" = "Насочете камерата към QR-кода";
