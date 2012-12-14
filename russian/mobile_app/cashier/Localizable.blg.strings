@@ -65,7 +65,7 @@
 "COMISSION_SCREEN_TITLE" = "комисионната";
 
 // errors
-"ERROR" = "Ошибка";
+"ERROR" = "Грешка";
 "ERROR_EMPTY_LOGIN_PASSWORD" =  "Въведете вашето логин и парола.";
 "ERROR_WRONG_LOGIN_PASSWORD" = "Грешно логин или парола.";
 "ERROR_SESSION_EXPIRED" = "Включването се разпадна. Моля, свържете се с администратора.";
