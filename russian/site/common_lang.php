@@ -24,6 +24,10 @@ $lang['site_common_tourist'] = 'турист';
 $lang['site_common_tourist_upper'] = 'Турист';
 $lang['site_common_tourists_upper'] = 'Туристы';
 
+
+$lang['site_common_recomendations'] = 'рекомендации';
+$lang['site_common_customers'] = 'покупатели';
+
 $lang['site_common_about_page_title'] = 'О нас';
 
 $lang['site_common_faq_page_title'] = 'Вопросы и ответы';
