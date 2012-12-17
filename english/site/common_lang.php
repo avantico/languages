@@ -20,6 +20,11 @@ $lang['site_common_merchants_page_title'] = 'For Businesses';
 
 $lang['site_common_tourist'] = 'tourist';
 $lang['site_common_tourist_upper'] = 'Tourist';
+$lang['site_common_tourists_upper'] = 'Tourists';
+
+
+$lang['site_common_recomendations'] = 'recomendations';
+$lang['site_common_customers'] = 'customers';
 
 $lang['site_common_about_page_title'] = 'About us';
 

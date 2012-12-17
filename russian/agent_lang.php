@@ -1,9 +1,9 @@
 <?
 /* В контроллере */
-$lang['agent_qr_wallet_ctrl_deleted'] 	= "Кошелек перенесен в «Удаленные»";
-$lang['agent_qr_wallet_ctrl_recover'] 	= "Кошелек восстановлен";
-$lang['agent_qr_wallet_ctrl_add_1'] 	= "Кошелек <strong>";
-$lang['agent_qr_wallet_ctrl_add_2'] 	= "</strong> успешно добавлен";
+$lang['agent_qr_wallet_ctrl_deleted'] 					= "Кошелек перенесен в «Удаленные»";
+$lang['agent_qr_wallet_ctrl_recover'] 					= "Кошелек восстановлен";
+$lang['agent_qr_wallet_ctrl_add_1'] 					= "Кошелек <strong>";
+$lang['agent_qr_wallet_ctrl_add_2'] 					= "</strong> успешно добавлен";
 
 
 /* Сайдбар */
@@ -11,37 +11,37 @@ $lang['agent_sidebar_nav_header_profile'] 				= "Профиль";
 $lang['agent_sidebar_nav_header_money'] 				= "Деньги";
 $lang['agent_sidebar_nav_header_partners'] 				= "Партнеры";
 
-$lang['agent_sidebar_nav_profile'] 				= "Мой профиль";
-$lang['agent_sidebar_nav_qr_wallets'] 			= "QR-кошельки";
+$lang['agent_sidebar_nav_profile'] 						= "Мой профиль";
+$lang['agent_sidebar_nav_qr_wallets'] 					= "QR-кошельки";
 
-$lang['agent_sidebar_nav_credits'] 				= "Мои начисления";
-$lang['agent_sidebar_nav_invoices'] 			= "Мои счета";
-$lang['agent_sidebar_nav_glex'] 				= "Платежи через GLEX";
+$lang['agent_sidebar_nav_credits'] 						= "Мои начисления";
+$lang['agent_sidebar_nav_invoices'] 					= "Мои счета";
+$lang['agent_sidebar_nav_glex'] 						= "Платежи через GLEX";
 
-$lang['agent_sidebar_nav_lists'] 				= "Списки рекомендаций";
-$lang['agent_sidebar_nav_merchants'] 			= "Мои партнеры";
-$lang['agent_sidebar_nav_search'] 				= "Поиск партнеров";
+$lang['agent_sidebar_nav_lists'] 						= "Списки рекомендаций";
+$lang['agent_sidebar_nav_merchants'] 					= "Мои партнеры";
+$lang['agent_sidebar_nav_search'] 						= "Поиск партнеров";
 
-$lang['agent_sidebar_nav_help'] 				= "Помощь";
+$lang['agent_sidebar_nav_help'] 						= "Помощь";
 
 /* Внутри табов */
 
 /* Деятельность */
-$lang['agent_name_label']		= "Название компании";
+$lang['agent_name_label']								= "Название компании";
 
 $lang['agent_allow_direct_payments_requests_label'] 	= "Расчеты напрямую";
-$lang['agent_allow_direct_payments_requests'] 		= "Включить прямые расчеты";
+$lang['agent_allow_direct_payments_requests'] 			= "Включить прямые расчеты";
 
-$lang['agent_activities']				= "Выберите отрасли  <br>(не более 3х)";
+$lang['agent_activities']								= "Выберите отрасли  <br>(не более 3х)";
 
 
-$lang['agent_reward_for_agent_label'] = "Агентское вознаграждение";
-$lang['agent_bonus_for_client_label'] = "Бонус клиенту";
+$lang['agent_reward_for_agent_label'] 					= "Агентское вознаграждение";
+$lang['agent_bonus_for_client_label'] 					= "Бонус клиенту";
 
-$lang['agent_description_for_client'] = "Описание для клиента";
+$lang['agent_description_for_client'] 					= "Описание для клиента";
 
 /* Контакты */
-$lang['agent_header_contacts_privat'] = "Контакты для участников Glex";
+$lang['agent_header_contacts_privat'] 					= "Контакты для участников Glex";
 $lang['agent_header_contacts_public'] = "Контакты для Клиентов (для рекламы на купонах и т.д.)";
 $lang['agent_header_contacts_adress'] = "Адреса";
 $lang['agent_header_contacts_map']	 = "Карта";
