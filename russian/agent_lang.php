@@ -32,8 +32,6 @@ $lang['agent_name_label']								= "Название компании";
 $lang['agent_allow_direct_payments_requests_label'] 	= "Расчеты напрямую";
 $lang['agent_allow_direct_payments_requests'] 			= "Включить прямые расчеты";
 
-$lang['agent_activities']								= "Выберите отрасли  <br>(не более 3х)";
-
 
 $lang['agent_reward_for_agent_label'] 					= "Агентское вознаграждение";
 $lang['agent_bonus_for_client_label'] 					= "Бонус клиенту";
@@ -106,19 +104,13 @@ $lang['merchant_save'] = "Сохранить";
 
 
 
-
-/* Табы мерчанта */
-$lang['agent_tab_main']			= "Деятельность";
-$lang['agent_tab_contacts']		= "Контакты";
-$lang['agent_tab_payments']		= "Платежные реквизиты";
-
 /* Деятельность */
 $lang['agent_name_label']		= "Название компании";
 
 $lang['agent_allow_direct_payments_requests_label'] 	= "Расчеты напрямую";
 $lang['agent_allow_direct_payments_requests'] 		= "Включить прямые расчеты";
 
-$lang['agent_activities']				= "Выберите отрасли (не более 3х)";
+$lang['agent_activities']				= "Выберите отрасли <br> (не более 3х)";
 $lang['agent_activity_travel']			= "Туризм, отели, экскурсии";
 $lang['agent_activity_shops']			= "Магазины";
 $lang['agent_activity_restraunts']		= "Бары, рестораны";
